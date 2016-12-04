@@ -7,6 +7,23 @@ layout: default
 	<h2>{{ site.description }}</h2>
 </header>
 
+<section class="tiles">
+	{% for post in site.posts %}
+	<article class="{{ post.style }}">
+		<span class="image">
+			<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+		</span>
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			<p>{{ post.date | date: "%b %-d, %Y" }}</p>
+			<h2>{{ post.title }}</h2>
+			<div class="content">
+				<p>{{ post.tagline }}</p>
+			</div>
+		</a>
+	</article>
+	{% endfor %}
+</section>
+
 <section>
 	<div class="row">
 		<div class="6u 12u$(medium)">
@@ -33,19 +50,65 @@ layout: default
 	</div>
 </section>
 
-<section class="tiles">
-	{% for post in site.posts %}
-	<article class="{{ post.style }}">
-		<span class="image">
-			<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
-		</span>
-		<a href="{{ post.url | prepend: site.baseurl }}">
-			<p>{{ post.date | date: "%b %-d, %Y" }}</p>
-			<h2>{{ post.title }}</h2>
-			<div class="content">
-				<p>{{ post.tagline }}</p>
+<section class="contact">
+	<h2>Interessiert!</h2>
+	<form method="post" action="//synopses.us4.list-manage.com/subscribe/post?u=7d905c213d7f4aad6debd9f42&amp;id=3875ddf265">
+		<div class="row uniform">
+			<div class="6u 12u$(small)">Ich melde ...
+				<input type="radio" checked id="signup-human-me" name="signup-human">
+				<label for="signup-human-me">mich an</label>
+				<div class="select-wrapper">
+					<select name="SKILL" id="signup-category">
+						<option value="">- Ich bin ein/eine.. -</option>
+						<option value="Anfanger">Daten-anfanger</option>
+						<option value="Fiend">Excel fiend</option>
+						<option value="Wrangler">Pivot wrangler</option>
+						<option value="Pro">JSON pro</option>
+					</select>
+				</div>
 			</div>
-		</a>
-	</article>
-	{% endfor %}
+			<div class="6u$ 12u$(small)">
+				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
+				<label for="signup-human-org">meine Organisation an</label>
+				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="Organisation" />
+			</div>
+			<div class="6u 12u$(xsmall)">
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="Name" />
+			</div>
+			<div class="6u$ 12u$(xsmall)">
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="Email" />
+			</div>
+			<div class="12u$">
+			</div>
+			<!--<div class="4u 12u$(small)">
+			<input type="radio" id="signup-when-low" name="signup-when" checked>
+			<label for="signup-when-low">1 Monat+</label>
+		</div>
+		<div class="4u 12u$(small)">
+		<input type="radio" id="signup-when-normal" name="signup-when">
+		<label for="signup-when-normal">2-4 Wochen</label>
+	</div>
+	<div class="4u$ 12u$(small)">
+	<input type="radio" id="signup-when-high" name="signup-when">
+	<label for="signup-when-high">Sofort möglich</label>
+</div>
+<div class="6u 12u$(small)">
+<input type="checkbox" id="signup-copy" name="signup-copy">
+<label for="signup-copy">Email me a copy</label>
+</div>
+<div class="6u$ 12u$(small)">
+<input type="checkbox" id="signup-human" name="signup-human" checked>
+<label for="signup-human">Not a robot</label>
+</div>-->
+<div class="12u$">
+	<textarea name="COMMENT" id="signup-message" placeholder="Sonstige Fragen oder wünschen?" rows="6"></textarea>
+</div>
+<div class="12u$">
+	<ul class="actions">
+		<li><input type="submit" value="Senden" class="special" /></li>
+		<li><input type="reset" value="Reset" /></li>
+	</ul>
+</div>
+</div>
+</form>
 </section>
