@@ -4,8 +4,33 @@ layout: default
 
 <header>
 	<h1>{{ site.tagline }}</h1>
-	<p>{{ site.description }}</p>
+	<h2>{{ site.description }}</h2>
 </header>
+
+<section>
+<div class="row">
+	<div class="6u 12u$(medium)">
+		<div class="service-item">
+			<span class="fa-stack fa-4x">
+				<i class="fa fa-circle fa-stack-2x"></i>
+				<i class="fa fa-question fa-stack-1x text-primary"></i>
+			</span>
+			{% markdown index-offer.de.md %}
+		</div>
+	</div>
+
+	<div class="6u 12u$(medium)">
+		<div class="service-item">
+			<span class="fa-stack fa-4x">
+				<i class="fa fa-circle fa-stack-2x"></i>
+				<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
+			</span>
+			{% markdown index-help.de.md %}
+		</div>
+	</div>
+</div>
+</section>
+
 <section class="tiles">
 	{% for post in site.posts %}
 		<article class="{{ post.style }}">
@@ -20,5 +45,5 @@ layout: default
 				</div>
 			</a>
 		</article>
-	{% endfor %}	
+	{% endfor %}
 </section>

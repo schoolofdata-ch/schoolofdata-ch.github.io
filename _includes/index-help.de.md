@@ -1,0 +1,15 @@
+#### Wir suchen Helfer
+
+Die School of Data Schweiz ist gerade erst im Aufbau und wir können jede helfende Hand gebrauchen.
+
+Datenchampions (Personen mit Datenskills)
+
+- Workshops inhaltlich unterstützen
+- Tutorials und Werkzeuge entwickeln
+
+Eventmanager (Personen mit Organisations- und Networkingskills)
+
+- Bei der Planung von Workshops helfen
+- Sponsoren finden
+
+<a href="signup.html" class="btn btn-light">Interessiert? Melde dich an!</a>

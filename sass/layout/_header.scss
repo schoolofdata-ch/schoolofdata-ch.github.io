@@ -6,8 +6,16 @@
 
 /* Header */
 
+#main header {
+	h1 { margin: 0.5em 0; }
+	h2 { font-weight: normal; }
+}
+
 	#header {
 		@include padding(5em, 0, (3em, 0, -5em, 0));
+
+		background: #00aff0;
+		color: white;
 
 		.logo {
 			display: block;
