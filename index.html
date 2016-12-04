@@ -8,42 +8,44 @@ layout: default
 </header>
 
 <section>
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<div class="service-item">
-			<span class="fa-stack fa-4x">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-question fa-stack-1x text-primary"></i>
-			</span>
-			{% markdown index-offer.de.md %}
+	<div class="row">
+		<div class="6u 12u$(medium)">
+			<div class="service-item">
+				<span class="fa-stack fa-4x">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-question fa-stack-1x text-primary"></i>
+				</span>
+				{% capture mi1 %}{% include index-offer.de.include %}{% endcapture %}
+				{{ mi1 | markdownify }}
+			</div>
 		</div>
-	</div>
 
-	<div class="6u 12u$(medium)">
-		<div class="service-item">
-			<span class="fa-stack fa-4x">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
-			</span>
-			{% markdown index-help.de.md %}
+		<div class="6u 12u$(medium)">
+			<div class="service-item">
+				<span class="fa-stack fa-4x">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
+				</span>
+				{% capture mi2 %}{% include index-help.de.include %}{% endcapture %}
+				{{ mi2 | markdownify }}
+			</div>
 		</div>
 	</div>
-</div>
 </section>
 
 <section class="tiles">
 	{% for post in site.posts %}
-		<article class="{{ post.style }}">
-			<span class="image">
-				<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
-			</span>
-			<a href="{{ post.url | prepend: site.baseurl }}">
-				<p>{{ post.date | date: "%b %-d, %Y" }}</p>
-				<h2>{{ post.title }}</h2>
-				<div class="content">
-					<p>{{ post.tagline }}</p>
-				</div>
-			</a>
-		</article>
+	<article class="{{ post.style }}">
+		<span class="image">
+			<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+		</span>
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			<p>{{ post.date | date: "%b %-d, %Y" }}</p>
+			<h2>{{ post.title }}</h2>
+			<div class="content">
+				<p>{{ post.tagline }}</p>
+			</div>
+		</a>
+	</article>
 	{% endfor %}
 </section>
