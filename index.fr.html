@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Deutsch
+title: Français
 ---
 
 <header>
-	<h1>{{ site.tagline }}</h1>
-	<h2>{{ site.description }}</h2>
+	<h1>L'École de données Suisse veut promouvoir l'utilisation et la compréhension des données.</h1>
+	<h2>Nous vous assistons sur notre forum en ligne et organisons des ateliers axés sur vos projets.</h2>
 </header>
 
 <section class="tiles">
@@ -33,7 +33,7 @@ title: Deutsch
 					<i class="fa fa-circle fa-stack-2x"></i>
 					<i class="fa fa-question fa-stack-1x text-primary"></i>
 				</span>
-				{% capture mi1 %}{% include index-offer.de.include %}{% endcapture %}
+				{% capture mi1 %}{% include index-offer.fr.include %}{% endcapture %}
 				{{ mi1 | markdownify }}
 			</div>
 		</div>
@@ -44,7 +44,7 @@ title: Deutsch
 					<i class="fa fa-circle fa-stack-2x"></i>
 					<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
 				</span>
-				{% capture mi2 %}{% include index-help.de.include %}{% endcapture %}
+				{% capture mi2 %}{% include index-help.fr.include %}{% endcapture %}
 				{{ mi2 | markdownify }}
 			</div>
 		</div>
@@ -52,25 +52,25 @@ title: Deutsch
 </section>
 
 <section class="contact">
-	<h2>Interessiert!</h2>
+	<h2>Ça m'interesse!</h2>
 	<form method="post" action="//synopses.us4.list-manage.com/subscribe/post?u=7d905c213d7f4aad6debd9f42&amp;id=3875ddf265">
 		<div class="row uniform">
-			<div class="6u 12u$(small)">Ich melde ...
+			<div class="6u 12u$(small)">J'inscris ...
 				<input type="radio" checked id="signup-human-me" name="signup-human">
-				<label for="signup-human-me">mich an</label>
+				<label for="signup-human-me">moi-même</label>
 				<div class="select-wrapper">
 					<select name="SKILL" id="signup-category">
-						<option value="">- Ich kann.. -</option>
-						<option value="Beginner">Formulare ausfüllen</option>
-						<option value="Intermediate">Tabellen verknüpfen</option>
-						<option value="Advanced">Datenbanken abfragen</option>
-						<option value="Expert">Web Services nutzen</option>
+						<option value="">- Je peux.. -</option>
+						<option value="Beginner">remplir des formulaires</option>
+						<option value="Intermediate">connecter les tables</option>
+						<option value="Advanced">intérroger les BDD</option>
+						<option value="Expert">utiliser les Services Web</option>
 					</select>
 				</div>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
-				<label for="signup-human-org">meine Organisation an</label>
+				<label for="signup-human-org">mon organisation</label>
 				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="Organisation" />
 			</div>
 			<div class="6u 12u$(xsmall)">
@@ -102,11 +102,11 @@ title: Deutsch
 <label for="signup-human">Not a robot</label>
 </div>-->
 <div class="12u$">
-	<textarea name="COMMENT" id="signup-message" placeholder="Sonstige Fragen oder wünschen?" rows="6"></textarea>
+	<textarea name="COMMENT" id="signup-message" placeholder="D'autres questions ou souhaites?" rows="6"></textarea>
 </div>
 <div class="12u$">
 	<ul class="actions">
-		<li><input type="submit" value="Senden" class="special" /></li>
+		<li><input type="submit" value="Envoyer" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </div>
