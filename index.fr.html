@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Français
+lang: fr
+ref: index
 ---
 
 <header>
-	<h1>L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.</h1>
-	<h2>Nous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a> 
-		et organisons les ateliers axés sur vos projets.</h2>
+	<h1>{{ site.fr.tagline }}</h1>
+	<h2>{{ site.fr.description }}</h2>
 </header>
 
 <section class="tiles">
@@ -53,64 +54,42 @@ title: Français
 </section>
 
 <section class="contact">
-	<h2>Ça m'interesse!</h2>
+	<h2>{{ site.fr.signup.title }}</h2>
 	<form method="post" action="//synopses.us4.list-manage.com/subscribe/post?u=7d905c213d7f4aad6debd9f42&amp;id=3875ddf265">
 		<div class="row uniform">
-			<div class="6u 12u$(small)">J'inscris ...
+			<div class="6u 12u$(small)">
+				{{ site.fr.signup.header }}
 				<input type="radio" checked id="signup-human-me" name="signup-human">
-				<label for="signup-human-me">moi-même</label>
+				<label for="signup-human-me">{{ site.fr.signup.myself }}</label>
 				<div class="select-wrapper">
 					<select name="SKILL" id="signup-category">
-						<option value="">- Je peux.. -</option>
-						<option value="Beginner">remplir des formulaires</option>
-						<option value="Intermediate">connecter les tables</option>
-						<option value="Advanced">intérroger les BDD</option>
-						<option value="Expert">utiliser les Services Web</option>
+						<option value="">{{ site.fr.signup.skills }}</option>
+						<option value="Beginner">{{ site.fr.signup.beginner }}</option>
+						<option value="Intermediate">{{ site.fr.signup.intermediate }}</option>
+						<option value="Advanced">{{ site.fr.signup.advanced }}</option>
+						<option value="Expert">{{ site.fr.signup.expert }}</option>
 					</select>
 				</div>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
-				<label for="signup-human-org">mon organisation</label>
-				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="Organisation" />
+				<label for="signup-human-org">{{ site.fr.signup.myorg }}</label>
+				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.fr.signup.org }}" />
 			</div>
 			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="Name" />
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.fr.signup.name }}" />
 			</div>
 			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="Email" />
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.fr.signup.email }}" />
 			</div>
 			<div class="12u$">
+				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.fr.signup.comment }}" rows="6"></textarea>
 			</div>
-			<!--<div class="4u 12u$(small)">
-			<input type="radio" id="signup-when-low" name="signup-when" checked>
-			<label for="signup-when-low">1 Monat+</label>
+			<div class="12u$">
+				<ul class="actions">
+					<li><input type="submit" value="{{ site.fr.signup.send }}" class="special" /></li>
+				</ul>
+			</div>
 		</div>
-		<div class="4u 12u$(small)">
-		<input type="radio" id="signup-when-normal" name="signup-when">
-		<label for="signup-when-normal">2-4 Wochen</label>
-	</div>
-	<div class="4u$ 12u$(small)">
-	<input type="radio" id="signup-when-high" name="signup-when">
-	<label for="signup-when-high">Sofort möglich</label>
-</div>
-<div class="6u 12u$(small)">
-<input type="checkbox" id="signup-copy" name="signup-copy">
-<label for="signup-copy">Email me a copy</label>
-</div>
-<div class="6u$ 12u$(small)">
-<input type="checkbox" id="signup-human" name="signup-human" checked>
-<label for="signup-human">Not a robot</label>
-</div>-->
-<div class="12u$">
-	<textarea name="COMMENT" id="signup-message" placeholder="D'autres questions ou souhaites?" rows="6"></textarea>
-</div>
-<div class="12u$">
-	<ul class="actions">
-		<li><input type="submit" value="Envoyer" class="special" /></li>
-		<li><input type="reset" value="Reset" /></li>
-	</ul>
-</div>
-</div>
-</form>
+	</form>
 </section>

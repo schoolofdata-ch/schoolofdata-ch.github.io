@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Deutsch
-lang: de
+title: English
+lang: en
 ref: index
 ---
 
 <header>
-	<h1>{{ site.de.tagline }}</h1>
-	<h2>{{ site.de.description }}</h2>
+	<h1>{{ site.en.tagline }}</h1>
+	<h2>{{ site.en.description }}</h2>
 </header>
 
 <section class="tiles">
@@ -35,7 +35,7 @@ ref: index
 					<i class="fa fa-circle fa-stack-2x"></i>
 					<i class="fa fa-question fa-stack-1x text-primary"></i>
 				</span>
-				{% capture mi1 %}{% include index-offer.de.include %}{% endcapture %}
+				{% capture mi1 %}{% include index-offer.en.include %}{% endcapture %}
 				{{ mi1 | markdownify }}
 			</div>
 		</div>
@@ -46,7 +46,7 @@ ref: index
 					<i class="fa fa-circle fa-stack-2x"></i>
 					<i class="fa fa-life-ring  fa-stack-1x text-primary"></i>
 				</span>
-				{% capture mi2 %}{% include index-help.de.include %}{% endcapture %}
+				{% capture mi2 %}{% include index-help.en.include %}{% endcapture %}
 				{{ mi2 | markdownify }}
 			</div>
 		</div>
@@ -54,40 +54,40 @@ ref: index
 </section>
 
 <section class="contact">
-	<h2>{{ site.de.signup.title }}</h2>
+	<h2>{{ site.en.signup.title }}</h2>
 	<form method="post" action="//synopses.us4.list-manage.com/subscribe/post?u=7d905c213d7f4aad6debd9f42&amp;id=3875ddf265">
 		<div class="row uniform">
 			<div class="6u 12u$(small)">
-				{{ site.de.signup.header }}
+				{{ site.en.signup.header }}
 				<input type="radio" checked id="signup-human-me" name="signup-human">
-				<label for="signup-human-me">{{ site.de.signup.myself }}</label>
+				<label for="signup-human-me">{{ site.en.signup.myself }}</label>
 				<div class="select-wrapper">
 					<select name="SKILL" id="signup-category">
-						<option value="">{{ site.de.signup.skills }}</option>
-						<option value="Beginner">{{ site.de.signup.beginner }}</option>
-						<option value="Intermediate">{{ site.de.signup.intermediate }}</option>
-						<option value="Advanced">{{ site.de.signup.advanced }}</option>
-						<option value="Expert">{{ site.de.signup.expert }}</option>
+						<option value="">{{ site.en.signup.skills }}</option>
+						<option value="Beginner">{{ site.en.signup.beginner }}</option>
+						<option value="Intermediate">{{ site.en.signup.intermediate }}</option>
+						<option value="Advanced">{{ site.en.signup.advanced }}</option>
+						<option value="Expert">{{ site.en.signup.expert }}</option>
 					</select>
 				</div>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
-				<label for="signup-human-org">{{ site.de.signup.myorg }}</label>
-				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.de.signup.org }}" />
+				<label for="signup-human-org">{{ site.en.signup.myorg }}</label>
+				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.en.signup.org }}" />
 			</div>
 			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.de.signup.name }}" />
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.en.signup.name }}" />
 			</div>
 			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.de.signup.email }}" />
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.en.signup.email }}" />
 			</div>
 			<div class="12u$">
-				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.de.signup.comment }}" rows="6"></textarea>
+				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.en.signup.comment }}" rows="6"></textarea>
 			</div>
 			<div class="12u$">
 				<ul class="actions">
-					<li><input type="submit" value="{{ site.de.signup.send }}" class="special" /></li>
+					<li><input type="submit" value="{{ site.en.signup.send }}" class="special" /></li>
 				</ul>
 			</div>
 		</div>
