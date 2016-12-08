@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Deutsch
+lang: de
+ref: index
 ---
 
 <header>
@@ -52,64 +54,42 @@ title: Deutsch
 </section>
 
 <section class="contact">
-	<h2>Interessiert!</h2>
+	<h2>{{ site.de.signup.title }}</h2>
 	<form method="post" action="//synopses.us4.list-manage.com/subscribe/post?u=7d905c213d7f4aad6debd9f42&amp;id=3875ddf265">
 		<div class="row uniform">
-			<div class="6u 12u$(small)">Ich melde ...
+			<div class="6u 12u$(small)">
+				{{ site.de.signup.header }}
 				<input type="radio" checked id="signup-human-me" name="signup-human">
-				<label for="signup-human-me">mich an</label>
+				<label for="signup-human-me">{{ site.de.signup.myself }}</label>
 				<div class="select-wrapper">
 					<select name="SKILL" id="signup-category">
-						<option value="">- Ich kann.. -</option>
-						<option value="Beginner">Formulare ausfüllen</option>
-						<option value="Intermediate">Tabellen verknüpfen</option>
-						<option value="Advanced">Datenbanken abfragen</option>
-						<option value="Expert">Web Services nutzen</option>
+						<option value="">{{ site.de.signup.skills }}</option>
+						<option value="Beginner">{{ site.de.signup.beginner }}</option>
+						<option value="Intermediate">{{ site.de.signup.intermediate }}</option>
+						<option value="Advanced">{{ site.de.signup.advanced }}</option>
+						<option value="Expert">{{ site.de.signup.expert }}</option>
 					</select>
 				</div>
 			</div>
 			<div class="6u$ 12u$(small)">
 				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
-				<label for="signup-human-org">meine Organisation an</label>
-				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="Organisation" />
+				<label for="signup-human-org">{{ site.de.signup.myorg }}</label>
+				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.de.signup.org }}" />
 			</div>
 			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="Name" />
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.de.signup.name }}" />
 			</div>
 			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="Email" />
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.de.signup.email }}" />
 			</div>
 			<div class="12u$">
+				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.de.signup.comment }}" rows="6"></textarea>
 			</div>
-			<!--<div class="4u 12u$(small)">
-			<input type="radio" id="signup-when-low" name="signup-when" checked>
-			<label for="signup-when-low">1 Monat+</label>
+			<div class="12u$">
+				<ul class="actions">
+					<li><input type="submit" value="{{ site.de.signup.send }}" class="special" /></li>
+				</ul>
+			</div>
 		</div>
-		<div class="4u 12u$(small)">
-		<input type="radio" id="signup-when-normal" name="signup-when">
-		<label for="signup-when-normal">2-4 Wochen</label>
-	</div>
-	<div class="4u$ 12u$(small)">
-	<input type="radio" id="signup-when-high" name="signup-when">
-	<label for="signup-when-high">Sofort möglich</label>
-</div>
-<div class="6u 12u$(small)">
-<input type="checkbox" id="signup-copy" name="signup-copy">
-<label for="signup-copy">Email me a copy</label>
-</div>
-<div class="6u$ 12u$(small)">
-<input type="checkbox" id="signup-human" name="signup-human" checked>
-<label for="signup-human">Not a robot</label>
-</div>-->
-<div class="12u$">
-	<textarea name="COMMENT" id="signup-message" placeholder="Sonstige Fragen oder wünschen?" rows="6"></textarea>
-</div>
-<div class="12u$">
-	<ul class="actions">
-		<li><input type="submit" value="Senden" class="special" /></li>
-		<li><input type="reset" value="Reset" /></li>
-	</ul>
-</div>
-</div>
-</form>
+	</form>
 </section>

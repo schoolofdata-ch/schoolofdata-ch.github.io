@@ -5,7 +5,21 @@ de:
   description: >
     Wir bieten Unterstützung online über <a href="https://forum.schoolofdata.ch">unser Forum</a>
     und organisieren projektbasierte <a href="#signup">Workshops</a>.
-
+  signup:
+    title: Interessiert!
+    header: Ich melde ...
+    myself: mich an
+    myorg: meine Organisation an
+    org: Organisation
+    name: Name
+    email: E-mail
+    comment: Sonstige Fragen oder wünschen?
+    skills: Ich kann ..
+    beginner: Formulare ausfüllen
+    intermediate: Tabellen verknüpfen
+    advanced: Datenbanken abfragen
+    expert: Linked Data nutzen
+    send: Senden
 fr:
   title: School of Data Switzerland
   tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
@@ -24,15 +38,31 @@ fr:
     skills: Je peux ..
     beginner: remplir des formulaires
     intermediate: connecter les tables
-    advanced: intérroger les BDD
-    expert: utiliser les Services Web
+    advanced: intérroger les Bases de données
+    expert: utiliser le Web des données
     send: Envoyer
 
 en:
   title: School of Data Switzerland
-  tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
+  tagline: The School of Data supports the usage and understanding of data in Switzerland.
   description: >
-    Wir bieten Unterstützung online über unser Forum und organisieren projektbasierte Workshops.
+    We provide support <a href="https://forum.schoolofdata.ch">on our forum</a>
+    and organise project-based <a href="#signup">workshops</a>.
+  signup:
+    title: I'm interested!
+    header: Signing up ...
+    myself: myself
+    myorg: my organisation
+    org: Organisation
+    name: Name
+    email: E-mail
+    comment: Other questions or suggestions?
+    skills: I can ..
+    beginner: fill out forms
+    intermediate: connect spreadsheets
+    advanced: run database queries
+    expert: use Linked Data sources
+    send: Send
 
 # Site links
 url: "https://schoolofdata.ch"
