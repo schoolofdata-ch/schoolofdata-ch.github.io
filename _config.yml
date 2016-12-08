@@ -1,16 +1,48 @@
-# Site settings
-title: School of Data Switzerland
+# Language-specific strings
+de:
+  title: School of Data Switzerland
+  tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
+  description: >
+    Wir bieten Unterstützung online über <a href="https://forum.schoolofdata.ch">unser Forum</a>
+    und organisieren projektbasierte <a href="#signup">Workshops</a>.
+
+fr:
+  title: School of Data Switzerland
+  tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
+  description: >
+    Nous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
+    et organisons <a href="#signup">les ateliers</a> axés sur vos projets.
+  signup:
+    title: Ça m'interesse!
+    header: J'inscris ...
+    myself: moi-même
+    myorg: mon organisation
+    org: Organisation
+    name: Name
+    email: E-mail
+    comment: D'autres questions ou souhaites?
+    skills: Je peux ..
+    beginner: remplir des formulaires
+    intermediate: connecter les tables
+    advanced: intérroger les BDD
+    expert: utiliser les Services Web
+    send: Envoyer
+
+en:
+  title: School of Data Switzerland
+  tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
+  description: >
+    Wir bieten Unterstützung online über unser Forum und organisieren projektbasierte Workshops.
+
+# Site links
+url: "https://schoolofdata.ch"
 email: info@schoolofdata.ch
-tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
-description: > # this means to ignore newlines until "baseurl:"
-  Wir bieten Unterstützung online über unser Forum und organisieren projektbasierte Workshops.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://schoolofdata.ch" # the base hostname & protocol for your site
 twitter: schoolofdata
 facebook: schoolofdata
 github: schoolofdata-swiss
 
 # Build settings
+baseurl: "" # the subpath, e.g. /blog
 markdown: kramdown
 sass:
   sass_dir: sass
