@@ -21,7 +21,7 @@ style: style1
 
 We are starting the new year with a **[Data Expedition](http://schoolofdata.org/data-expeditions/)**, a workshop that can help you become more "Adventurous, Benign and Correlational" when it comes to understanding the world of Food - and get up to speed for more data challenges in 2017 as we did in previous [workshops of this type](http://discourse.soda.camp/t/data-expedition-in-bern-may-5-6-2016/84). We will collect datasets, conquer their schema, and defeat the barriers that stand in the way to understanding and further use. Working in teams, our goal will be to stretch our skills and open data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)**. Note: please register separately to participate in the Hackdays.
 
-<img src="images/posts/food2.png" width="394" height="398">
+<img src="/images/posts/food2.png" width="394" height="398">
 
 <sup>Image by [U.S. FDA](http://www.fda.gov/Food/IngredientsPackagingLabeling/LabelingNutrition/ucm274593.htm) via [World Public Health Nutrition Association](http://www.wphna.org/htdocs/2011_mar_wn4_labelling_fictions.htm).</sup>
 
