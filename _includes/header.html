@@ -2,7 +2,7 @@
   <div class="inner">
     <!-- Logo -->
       <a href="{{ site.baseurl }}/" class="logo" style="font-size:0px; width:212px; height:60px; background:url({{ site.baseurl }}/images/scoda-horizontal-212x60-nontransparent.png) no-repeat">
-        <span class="title">{{ site.title }}</span>
+        <span class="title">{{ page.title }}</span>
       </a>
     <!-- Nav -->
       <nav>
@@ -14,11 +14,11 @@
 </header>
 
 <nav id="menu">
-  <h2>Menu</h2>
   <ul>
-    <li><a href="index.html">Home</a></li>
     {% for my_page in site.pages %}
-      {% if my_page.title %}
+      {% if my_page.language %}
+        <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.language }}</a></li>
+      {% elsif my_page.title %}
         <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
       {% endif %}
     {% endfor %}
