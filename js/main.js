@@ -198,4 +198,16 @@
 
 	});
 
+	if ($.urlParam('msg') == 'sent') {
+		$body = $('body');
+		msg = {
+			'en': 'Thanks, your message was sent!',
+			'de': 'Danke. Ihre Nachricht wurde erfolgreich gesendet.',
+			'fr': 'Merci! Votre message a bien été envoyé.'
+		};
+		lang = $('html').attr('lang') || 'en';
+		$body.prepend('<div class="page-flash">' + msg[lang] + '</div>');
+		setTimeout(function() { $('div.page-flash').slideUp(); }, 10000);
+	}
+
 })(jQuery);
