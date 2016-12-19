@@ -23,9 +23,7 @@ style: style1
 
 <sup>Image by [U.S. FDA](http://www.fda.gov/Food/IngredientsPackagingLabeling/LabelingNutrition/ucm274593.htm) via [World Public Health Nutrition Association](http://www.wphna.org/htdocs/2011_mar_wn4_labelling_fictions.htm).</sup>
 
-We are starting the new year with a *Data Expedition*, a workshop that can help you become more "Adventurous, Benign and Correlational" when it comes to understanding the world of Food - and get up to speed for more data challenges in 2017.
-
-Last summer we held a [Data Expedition in Bern](http://discourse.soda.camp/t/data-expedition-in-bern-may-5-6-2016/84) that already involved several datasets relevant to the subject. We will collect datasets, conquer their schema, and defeat the barriers that stand in the way to understanding and further use. Working in teams, our goal will be to stretch our skills and open data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)**.
+We are starting the new year with a *Data Expedition*, a workshop that can help you become more "Adventurous, Benign and Correlational" when it comes to understanding the world of Food - and get up to speed for more data challenges in 2017 as we did in [past expeditions](http://discourse.soda.camp/t/data-expedition-in-bern-may-5-6-2016/84). We will collect datasets, conquer their schema, and defeat the barriers that stand in the way to understanding and further use. Working in teams, our goal will be to stretch our skills and open data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)**.
 
 This Data Expedition will be facilitated by @oleg and @heidi
 
@@ -37,4 +35,4 @@ This Data Expedition will be facilitated by @oleg and @heidi
 
 (Alternatively, use [our contact form](http://schoolofdata.ch#contact))
 
-Hurry, there is limited room on a first-come first-served basis at this free and well catered-to workshop! Can't make it this time? Schade. Sign up to our forum anyway to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events)!
+Hurry, there is limited room on a first-come first-served basis at this free and well catered-to workshop! Can't make it this time? Schade. Sign up to our forum anyway to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
