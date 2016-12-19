@@ -19,7 +19,7 @@ style: style1
 
 *Food. Data. There is something visceral about those two words placed in combination. Topics that involve absolutely everybody at a very personal level, when fused together lead to a very tasty proposition. Data is behind every bite we eat. But is it wholesome?* This morning data surely helped you off to a healthy start, ensuring that product expiry on the milk, bread and eggs was clearly labelled and accurate within safety limits. This afternoon it will stock the stores of shops and restaurants, providing life support for the nation. If we hardly understand Nutrition Labels, let alone the complex global web of food production, how can we make healthy choices for ourselves or our planet?
 
-<img src="https://forum.schoolofdata.ch/uploads/default/original/1X/31474e24699a5a2fe389abff58d6ccd0e6f2e676.png" width="394" height="398">
+<img src="images/posts/food2.png" width="394" height="398">
 
 <sup>Image by [U.S. FDA](http://www.fda.gov/Food/IngredientsPackagingLabeling/LabelingNutrition/ucm274593.htm) via [World Public Health Nutrition Association](http://www.wphna.org/htdocs/2011_mar_wn4_labelling_fictions.htm).</sup>
 
