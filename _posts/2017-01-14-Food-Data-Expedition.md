@@ -29,6 +29,7 @@ This Data Expedition will be facilitated by @oleg and @heidi
 
 <a name="register"></a>
 ### How to register
+
 1. Register and [log in to our forum](https://forum.schoolofdata.ch/login)
 2. Click the heart button under [this post](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175)
 3. Get a confirmation email from us with details
