@@ -21,20 +21,20 @@ de:
     expert: Linked Data nutzen
     send: Senden
 fr:
-  title: L'École de données Suisse
+  title: L'École de données en Suisse
   tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
   description: >
-    Nous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
-    et organisons <a href="#contact">les ateliers</a> axés sur vos projets.
+    Nous vous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
+    et organisons <a href="#contact">des ateliers</a> adaptés à vos projets.
   signup:
     title: Ça m'interesse!
     header: J'inscris ...
     myself: moi-même
     myorg: mon organisation
     org: Organisation
-    name: Name
+    name: Nom
     email: E-mail
-    comment: D'autres questions ou souhaites?
+    comment: Des questions ou des souhaits?
     skills: Je peux ..
     beginner: remplir des formulaires
     intermediate: connecter les tables
