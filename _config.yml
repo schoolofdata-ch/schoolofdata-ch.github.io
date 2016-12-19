@@ -3,8 +3,8 @@ de:
   title: School of Data Schweiz
   tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
   description: >
-    Wir bieten Unterstützung online über <a href="https://forum.schoolofdata.ch">unser Forum</a>
-    und organisieren projektbasierte <a href="#contact">Workshops</a>.
+    Wir bieten Unterstützung über <a href="https://forum.schoolofdata.ch">unser Forum</a>
+    und organisieren projektbasierte <a href="#info">Workshops</a>:
   signup:
     title: Interessiert!
     header: Ich melde ...
@@ -25,7 +25,7 @@ fr:
   tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
   description: >
     Nous vous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
-    et organisons <a href="#contact">des ateliers</a> adaptés à vos projets.
+    et organisons <a href="#info">des ateliers</a> adaptés aux projets:
   signup:
     title: Ça m'interesse!
     header: J'inscris ...
@@ -47,7 +47,7 @@ en:
   tagline: The School of Data supports the usage and understanding of data in Switzerland.
   description: >
     We provide support <a href="https://forum.schoolofdata.ch">on our forum</a>
-    and organise project-based <a href="#contact">workshops</a>.
+    and organise project-based <a href="#info">workshops</a>:
   signup:
     title: I'm interested!
     header: Signing up ...
