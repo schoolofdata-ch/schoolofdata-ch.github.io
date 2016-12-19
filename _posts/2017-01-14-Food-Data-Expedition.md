@@ -12,7 +12,7 @@ style: style1
 <table>
 <tr><th>When:</th><td>Saturday, January 14, 2017, 10:00 - 14:00</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
-<tr><th>Cost:</th><td>Free forregistered participants.</td></tr>
+<tr><th>Cost:</th><td>Free for registered participants.</td></tr>
 <tr><th>Bring:</th><td>A laptop or tablet. Lunch provided.</td></tr>
 <tr><th></th><td><a href="#register" class="button special">Register now!</a></td></tr>
 </table>
@@ -28,6 +28,7 @@ We are starting the new year with a *Data Expedition*, a workshop that can help 
 This Data Expedition will be facilitated by @oleg and @heidi
 
 <a name="register"></a>
+
 ### How to register
 
 1. Register and [log in to our forum](https://forum.schoolofdata.ch/login)
