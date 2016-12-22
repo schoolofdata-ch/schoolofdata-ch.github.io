@@ -8,10 +8,11 @@ layout: default
 
 <header>
 	<h1>{{ site.fr.tagline }}</h1>
-	<h2>{{ site.fr.description }}</h2>
+	<h5>{{ site.fr.description }}</h5>
 </header>
 
 <hr> 
+<h2>{{ site.fr.current.title }}</h2>
 <section class="tiles">
 	{% for post in site.posts %}
 	<article class="{{ post.style }}">
