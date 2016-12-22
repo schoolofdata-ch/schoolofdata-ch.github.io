@@ -10,7 +10,7 @@ style: style1
 ---
 
 <table>
-<tr><th>What:</th><td>Find and clean data sets dealing with food and make them available.</td></tr>
+<tr><th>What:</th><td>Find and clean data sets dealing with food and make them available. Preparation for the [Open Food Hackdays](http://food.opendata.ch).</td></tr>
 <tr><th>When:</th><td>Saturday, January 14, 2017, 10:00 - 14:00</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
 <tr><th>Cost:</th><td>Free for registered participants.</td></tr>
