@@ -10,7 +10,7 @@ style: style1
 ---
 
 <table>
-<tr><th>What:</th><td>Find and clean data sets dealing with food.</td></tr>
+<tr><th>What:</th><td>Find and clean data sets dealing with food and make them available. Preparation for the <a href="http://food.opendata.ch">Open Food Hackdays</a>.</td></tr>
 <tr><th>When:</th><td>Saturday, January 14, 2017, 10:00 - 14:00</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
 <tr><th>Cost:</th><td>Free for registered participants.</td></tr>
@@ -20,7 +20,20 @@ style: style1
 
 *Food. Data. There is something visceral and personal about the two topics in combination. Data is behind every bite we eat - but is it wholesome?* This morning, data surely helped you off to a healthy start: ensuring that product expiry on the milk, bread and eggs was clearly labelled and within safe limits. This afternoon the stores of shops and restaurants will be stocked based on data, supporting lives. If we do not understand Nutrition Labels, let alone the complex global web of food production, how can we make healthy choices for ourselves or our planet?
 
-We are starting the new year with a **[Data Expedition](http://schoolofdata.org/data-expeditions/)**, a workshop that can help you become more "Adventurous, Benign and Correlational" when it comes to understanding the world of Food - and get up to speed for more data challenges in 2017 as we did in previous [workshops of this type](http://discourse.soda.camp/t/data-expedition-in-bern-may-5-6-2016/84). We will collect datasets, conquer their schema, and defeat the barriers that stand in the way to understanding and further use. Working in teams, our goal will be to stretch our skills and open data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)**. Note: please register separately to participate in the Hackdays.
+We are starting the new year with a **[Data Expedition](http://schoolofdata.org/data-expeditions/)**.
+At this workshop we want to 
+
+- brainstorm about what information could be needed to better understand the world of food
+- find open data sets covering this information
+- clean and prepare the data sets
+- make the data (and the cleaning-code) available for others to use
+
+The main goals are to learn about working with food data and to prepare open
+data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)** (Note:
+please register separately to participate in the Hackdays). We want to involve
+people with all kinds of skills at this event, whether you are a nutritionist,
+a data expert or just someone who likes to learn how to work with (food) data.
+We will be working in groups and learn from each other.
 
 <img src="/images/posts/food2.png" width="394" height="398">
 

@@ -5,15 +5,17 @@ de:
   description: >
     Wir bieten Unterstützung über <a href="https://forum.schoolofdata.ch">unser Forum</a>
     und organisieren projektbasierte <a href="#info">Workshops</a>:
+  current: 
+    title: Aktuelle Projekte
   signup:
-    title: Interessiert!
+    title: Interessiert?
     header: Ich melde ...
     myself: mich an
     myorg: meine Organisation an
     org: Organisation
     name: Name
     email: E-mail
-    comment: Sonstige Fragen oder wünschen?
+    comment: Nachricht
     skills: Ich kann ..
     beginner: Formulare ausfüllen
     intermediate: Tabellen verknüpfen
@@ -26,6 +28,8 @@ fr:
   description: >
     Nous vous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
     et organisons <a href="#info">des ateliers</a> adaptés aux projets:
+  current:
+    title: Projets actuels
   signup:
     title: Ça m'interesse!
     header: J'inscris ...
@@ -34,7 +38,7 @@ fr:
     org: Organisation
     name: Nom
     email: E-mail
-    comment: Des questions ou des souhaits?
+    comment: Message
     skills: Je peux ..
     beginner: remplir des formulaires
     intermediate: connecter les tables
@@ -44,10 +48,12 @@ fr:
 
 en:
   title: School of Data Switzerland
-  tagline: The School of Data supports the usage and understanding of data in Switzerland.
+  tagline: The School of Data Switzerland supports the usage and understanding of data.
   description: >
     We provide support <a href="https://forum.schoolofdata.ch">on our forum</a>
     and organise project-based <a href="#info">workshops</a>:
+  current:
+    title: Current projects
   signup:
     title: I'm interested!
     header: Signing up ...
@@ -56,7 +62,7 @@ en:
     org: Organisation
     name: Name
     email: E-mail
-    comment: Other questions or suggestions?
+    comment: Message
     skills: I can ..
     beginner: fill out forms
     intermediate: connect spreadsheets

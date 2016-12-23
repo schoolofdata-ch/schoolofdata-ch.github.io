@@ -8,10 +8,11 @@ layout: default
 
 <header>
 	<h1>{{ site.en.tagline }}</h1>
-	<h2>{{ site.en.description }}</h2>
+	<h5>{{ site.en.description }}</h5>
 </header>
 
 <hr> 
+<h2>{{ site.en.current.title }}</h2>
 <section class="tiles">
 	{% for post in site.posts %}
 	<article class="{{ post.style }}">
@@ -64,6 +65,7 @@ layout: default
 				{{ site.en.signup.header }}
 				<input type="radio" checked id="signup-human-me" name="signup-human">
 				<label for="signup-human-me">{{ site.en.signup.myself }}</label>
+				<!--
 				<div class="select-wrapper">
 					<select name="SKILL" id="signup-category">
 						<option value="">{{ site.en.signup.skills }}</option>
@@ -73,6 +75,7 @@ layout: default
 						<option value="Expert">{{ site.en.signup.expert }}</option>
 					</select>
 				</div>
+				-->
 			</div>
 			<div class="6u$ 12u$(small)">
 				<input type="radio" id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()">
