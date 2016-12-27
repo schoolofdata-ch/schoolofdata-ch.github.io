@@ -11,7 +11,7 @@ layout: default
 	<h5>{{ site.fr.description }}</h5>
 </header>
 
-<hr> 
+<hr>
 <h2>{{ site.fr.current.title }}</h2>
 <section class="tiles">
 	{% for post in site.posts %}
@@ -29,7 +29,7 @@ layout: default
 	</article>
 	{% endfor %}
 </section>
-<hr> 
+<hr>
 
 <section id="info">
 	<div class="row">
@@ -59,7 +59,7 @@ layout: default
 
 <section class="contact" id="contact">
 	<h2>{{ site.fr.signup.title }}</h2>
-	<form method="post" action="http://utou.ch/scoda.php">
+	<form method="post" action="https://utou.ch/scoda.php">
 		<div class="row uniform">
 			<div class="6u 12u$(small)">
 				{{ site.fr.signup.header }}
@@ -83,15 +83,17 @@ layout: default
 				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.fr.signup.org }}" />
 			</div>
 			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.fr.signup.name }}" />
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.fr.signup.name }}" required />
 			</div>
 			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.fr.signup.email }}" />
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.fr.signup.email }}" required />
 			</div>
 			<div class="12u$">
-				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.fr.signup.comment }}" rows="6"></textarea>
+				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.fr.signup.comment }}" rows="6" required></textarea>
 			</div>
 			<div class="12u$">
+				<div class="g-recaptcha" data-sitekey="{{ site.grecaptcha.key }}"></div>
+				<input type="hidden" name="lang" value=".fr" />
 				<ul class="actions">
 					<li><input type="submit" value="{{ site.fr.signup.send }}" class="special" /></li>
 				</ul>

@@ -5,7 +5,7 @@ de:
   description: >
     Wir bieten Unterstützung über <a href="https://forum.schoolofdata.ch">unser Forum</a>
     und organisieren projektbasierte <a href="#info">Workshops</a>:
-  current: 
+  current:
     title: Aktuelle Projekte
   signup:
     title: Interessiert?
@@ -77,6 +77,8 @@ email: info@schoolofdata.ch
 twitter: schoolofdata
 facebook: schoolofdata
 github: schoolofdata-swiss
+grecaptcha:
+  key: 6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ
 
 # Build settings
 baseurl: "" # the subpath, e.g. /blog

@@ -198,16 +198,28 @@
 
 	});
 
-	if ($.urlParam('msg') == 'sent') {
+	if ($.urlParam('msg')) {
 		$body = $('body');
-		msg = {
-			'en': 'Thanks, your message was sent!',
-			'de': 'Danke. Ihre Nachricht wurde erfolgreich gesendet.',
-			'fr': 'Merci! Votre message a bien été envoyé.'
-		};
+		if ($.urlParam('msg') == 'sent') {
+			msg = {
+				'en': 'Thanks, your message was sent!',
+				'de': 'Danke. Ihre Nachricht wurde erfolgreich gesendet.',
+				'fr': 'Merci! Votre message a bien été envoyé.'
+			};
+		} else {
+			msg = {
+				'en': 'There was an error, please try again.',
+				'de': 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.',
+				'fr': 'Une erreur s`est produite. Veuillez réessayer.'
+			};
+		}
 		lang = $('html').attr('lang') || 'en';
 		$body.prepend('<div class="page-flash">' + msg[lang] + '</div>');
 		setTimeout(function() { $('div.page-flash').slideUp(); }, 10000);
 	}
+
+	window.contactFormSubmit = function(t) {
+		$('#contact form').submit();
+	};
 
 })(jQuery);
