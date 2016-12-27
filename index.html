@@ -83,25 +83,19 @@ layout: default
 				<input style="display:none" type="text" name="ORG" id="signup-org" value="" placeholder="{{ site.de.signup.org }}" />
 			</div>
 			<div class="6u 12u$(xsmall)">
-				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.de.signup.name }}" />
+				<input type="text" name="NAME" id="signup-name" value="" placeholder="{{ site.de.signup.name }}" required />
 			</div>
 			<div class="6u$ 12u$(xsmall)">
-				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.de.signup.email }}" />
+				<input type="email" name="EMAIL" id="signup-email" value="" placeholder="{{ site.de.signup.email }}" required />
 			</div>
 			<div class="12u$">
-				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.de.signup.comment }}" rows="6"></textarea>
+				<textarea name="COMMENT" id="signup-message" placeholder="{{ site.de.signup.comment }}" rows="6" required></textarea>
 			</div>
 			<div class="12u$">
-				{% include index-submit.include %}
+				<div class="g-recaptcha" data-sitekey="{{ site.grecaptcha.key }}"></div>
+				<input type="hidden" name="lang" value="" />
 				<ul class="actions">
-					<li>
-						<button
-							class="g-recaptcha special"
-							data-sitekey="6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ"
-							data-callback="window.contactFormSubmit">
-							{{ site.de.signup.send }}
-						</button>
-					</li>
+					<li><input type="submit" value="{{ site.de.signup.send }}" class="special" /></li>
 				</ul>
 			</div>
 		</div>
