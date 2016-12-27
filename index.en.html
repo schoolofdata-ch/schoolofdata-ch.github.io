@@ -11,7 +11,7 @@ layout: default
 	<h5>{{ site.en.description }}</h5>
 </header>
 
-<hr> 
+<hr>
 <h2>{{ site.en.current.title }}</h2>
 <section class="tiles">
 	{% for post in site.posts %}
@@ -29,7 +29,7 @@ layout: default
 	</article>
 	{% endfor %}
 </section>
-<hr> 
+<hr>
 
 <section id="info">
 	<div class="row">
@@ -93,7 +93,14 @@ layout: default
 			</div>
 			<div class="12u$">
 				<ul class="actions">
-					<li><input type="submit" value="{{ site.en.signup.send }}" class="special" /></li>
+					<li>
+						<button
+							class="g-recaptcha special"
+							data-sitekey="6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ"
+							data-callback="window.contactFormSubmit">
+							{{ site.en.signup.send }}
+						</button>
+					</li>
 				</ul>
 			</div>
 		</div>

@@ -210,4 +210,8 @@
 		setTimeout(function() { $('div.page-flash').slideUp(); }, 10000);
 	}
 
+	window.contactFormSubmit = function(t) {
+		$('#contact form').submit();
+	};
+
 })(jQuery);
