@@ -15,7 +15,7 @@ style: style1
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
 <tr><th>Cost:</th><td>Free for registered participants.</td></tr>
 <tr><th>Bring:</th><td>A laptop or tablet. Lunch provided.</td></tr>
-<tr><th></th><td><a href="#register" class="button special">Register now!</a></td></tr>
+<tr><th></th><td><a href="#register" class="button special">Register now!</a>&nbsp;<a href="https://goo.gl/forms/J5nHDCBvu3VGmonE3" class="button special">Suggest a dataset</a></td></tr>
 </table>
 
 *Food. Data. There is something visceral and personal about the two topics in combination. Data is behind every bite we eat - but is it wholesome?* This morning, data surely helped you off to a healthy start: ensuring that product expiry on the milk, bread and eggs was clearly labelled and within safe limits. This afternoon the stores of shops and restaurants will be stocked based on data, supporting lives. If we do not understand Nutrition Labels, let alone the complex global web of food production, how can we make healthy choices for ourselves or our planet?
