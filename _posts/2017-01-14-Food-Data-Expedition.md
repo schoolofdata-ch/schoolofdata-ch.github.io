@@ -3,52 +3,35 @@ layout: post
 author: Oleg Lavrovsky
 title: Food Data Expedition
 when: 2017-01-14
-date: 2016-12-14
+date: 2017-01-14
 tagline:
 image: images/posts/food.jpg
 style: style1
+frontpage: true
 ---
 
-<table>
-<tr><th>What:</th><td>Find and clean data sets dealing with food and make them available. Preparation for the <a href="http://food.opendata.ch">Open Food Hackdays</a>.</td></tr>
-<tr><th>When:</th><td>Saturday, January 14, 2017, 10:00 - 14:00</td></tr>
-<tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
-<tr><th>Cost:</th><td>Free for registered participants.</td></tr>
-<tr><th>Bring:</th><td>A laptop or tablet. Lunch provided.</td></tr>
-<tr><th></th><td><a href="#register" class="button special">Register now!</a>&nbsp;<a href="https://goo.gl/forms/J5nHDCBvu3VGmonE3" class="button special">Suggest a dataset</a></td></tr>
-</table>
+> To those who joined our 1st [School of Data workshop](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175/1) of the year, spending part of last weekend to explore food-related datasets with us - you were an awesome group to work with, _thanks for coming!_ To everyone else, you can still plug into our effort: keep reading to find out how.
 
-*Food. Data. There is something visceral and personal about the two topics in combination. Data is behind every bite we eat - but is it wholesome?* This morning, data surely helped you off to a healthy start: ensuring that product expiry on the milk, bread and eggs was clearly labelled and within safe limits. This afternoon the stores of shops and restaurants will be stocked based on data, supporting lives. If we do not understand Nutrition Labels, let alone the complex global web of food production, how can we make healthy choices for ourselves or our planet?
+Facilitated by [Oleg](https://forum.schoolofdata.ch/users/oleg), [Heidi](https://forum.schoolofdata.ch/users/heidi) and [Florian](https://forum.schoolofdata.ch/users/florianwieser), we started off our latest session with an introduction to **Open Food Data**, an exciting new program that begins with [hackdays on February 10-11](http://food.opendata.ch).
 
-We are starting the new year with a **[Data Expedition](http://schoolofdata.org/data-expeditions/)**.
-At this workshop we want to 
+A brief overview from data literacy to data wrangling followed: we quickly covered the basic ideas, and you can visit the School of Data [**Online Courses** page](http://schoolofdata.org/courses/), as well as [search our forum](https://forum.schoolofdata.ch/c/icanhasdata) for tutorials and more links to explore. Then, we dived in and came up with a big pile of ideas, everyone sharing their topics and interests.
 
-- brainstorm about what information could be needed to better understand the world of food
-- find open data sets covering this information
-- clean and prepare the data sets
-- make the data (and the cleaning-code) available for others to use
+![](https://forum.schoolofdata.ch/uploads/default/optimized/1X/9d83d03ea9a841dc818090b81c44bfc67b51864e_1_666x500.jpg)
 
-The main goals are to learn about working with food data and to prepare open
-data for the upcoming **[Open Food Hackdays](http://food.opendata.ch)** (Note:
-please register separately to participate in the Hackdays). We want to involve
-people with all kinds of skills at this event, whether you are a nutritionist,
-a data expert or just someone who likes to learn how to work with (food) data.
-We will be working in groups and learn from each other.
+We divided up into three groups around broader themes - roughly: economics, consumption and sustainability - and worked our way through the ideas generated. A [list of relevant datasets](https://docs.google.com/spreadsheets/d/1W27W3vuD5mj1CDWbGJhjECabRbsqVzt_8EhPJV1l5b0/pubhtml#) emerged through searching [open data portals](http://opendata.swiss) and the [World Wide Web](https://duckduckgo.com/?q=food+data+filetype%253Axls&ia=web).  
 
-<img src="/images/posts/food2.png" width="394" height="398">
+[![Datacentral screenshot](https://discourse.soda.camp/uploads/default/original/1X/3590c07495ca0ac94761a880f0518d17252c0275.jpg)](http://food.schoolofdata.ch/)  
+Several of these seemed especially promising (in terms of openness, accessibility, usefulness...), so we started creating [Data Packages](http://food.schoolofdata.ch/about/) in view of helping [hackday](http://food.opendata.ch) teams to get started. You can find these at [**food.schoolofdata.ch**](http://food.schoolofdata.ch) - we will continue building up this resource over the weeks ahead, so please keep sending in [your suggestions](https://goo.gl/forms/J5nHDCBvu3VGmonE3)!
 
-<sup>Image by [U.S. FDA](http://www.fda.gov/Food/IngredientsPackagingLabeling/LabelingNutrition/ucm274593.htm) via [World Public Health Nutrition Association](http://www.wphna.org/htdocs/2011_mar_wn4_labelling_fictions.htm).</sup>
+![](https://forum.schoolofdata.ch/uploads/default/optimized/1X/a3b6d9987e1b96de58a994179e8681b49a9eba7c_1_690x495.jpg)
 
-<a name="register"></a>
+Thanks go to [THES/Raum für Bildung](http://www.thes-effinger.ch/) for use of the outstanding facilities at [Effinger](http://effinger.ch), and to [Opendata.ch](http://Opendata.ch) and [Engagement Migros](http://engagement.ch/) for providing the momentum and _food_ to keep us going :)
 
-### How to register
+If you have any follow up questions or feedback, shoot us a note on [our forum thread](http://forum.schoolofdata.ch) or via [Twitter](http://twitter.com/schoolofdata_ch). If you would like us to run another workshop like this one, even in another city or at your organisation - let's [get in touch](http://schoolofdata.ch). Here are upcoming dates from [our calendar](https://forum.schoolofdata.ch/t/upcoming-events/40):
 
-1. Register and [log in to our forum](https://forum.schoolofdata.ch/login)
-2. Click the heart button under [this post](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175)
-3. Get a confirmation email from us with details
+*   January 31 - [Open Data Meetup](https://www.meetup.com/Lausanne-Open-Data-Meetup/events/236372953/), Lausanne
+*   February 3+4 - [Make Zurich 2017](https://forum.schoolofdata.ch/t/3-4-2-make-zurich-2017/173/1) ([register here](https://www.eventbrite.com/e/make-zurich-2017-hackathon-registration-29362587289))
+*   February 10+11 - [Open Food Hackdays](https://food.opendata.ch/), Zürich + Lausanne
+*   March 4 - [Open Data Day Hackathon](http://zurich-r-user-group.github.io/hackathon.html), Zürich ([collecting ideas](https://github.com/OpenDataDayZurich2016/ideas) now!)
 
-Alternatively, use [our contact form](http://schoolofdata.ch#contact).
-
-Hurry, there is limited room on a first-come first-served basis at this free and well catered-to workshop! Can't make it this time? Schade. Sign up to our forum anyway to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
-
-This Data Expedition will be facilitated by [@Oleg](https://forum.schoolofdata.ch/users/oleg/) and [@Heidi](https://forum.schoolofdata.ch/users/heidi/)
+Have a great start to the year & _bon appetit!_
