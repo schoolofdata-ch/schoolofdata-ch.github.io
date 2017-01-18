@@ -14,7 +14,7 @@ layout: default
 <hr>
 <h2>{{ site.fr.current.title }}</h2>
 <section class="tiles">
-	{% for post in site.posts %}
+	{% for post in site.posts %}{% if post.frontpage %}
 	<article class="{{ post.style }}">
 		<span class="image">
 			<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
@@ -27,7 +27,7 @@ layout: default
 			</div>
 		</a>
 	</article>
-	{% endfor %}
+	{% endif %}{% endfor %}
 </section>
 <hr>
 
