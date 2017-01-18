@@ -10,6 +10,8 @@ style: style1
 frontpage: false
 ---
 
+**This Expedition has taken place and [a recap is available](https://schoolofdata-ch.github.io/2017/01/14/Food-Data-Expedition.html)!**
+
 <table>
 <tr><th>What:</th><td>Find and clean data sets dealing with food and make them available. Preparation for the <a href="http://food.opendata.ch">Open Food Hackdays</a>.</td></tr>
 <tr><th>When:</th><td>Saturday, January 14, 2017, 10:00 - 14:00</td></tr>
