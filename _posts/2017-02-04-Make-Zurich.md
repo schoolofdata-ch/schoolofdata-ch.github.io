@@ -14,7 +14,7 @@ The [Open Network Infrastructure Association](https://opennetworkinfrastructure.
 
 We supported their first volunteer run event in February - [Make Zurich](http://makezurich.ch/) - with platforms and guidelines, helping to ensure a high quality and innovative event for all participants. On day 2 we ran a workshop talking about data literacy and the resources available at School of Data:
 
-<iframe src="//slides.com/loleg/making-sense/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<center><iframe src="//slides.com/loleg/making-sense/embed" width="100%" style="max-width:576px" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 In addition to putting together some sensors of our own, we wanted to collect aggregate data about the use of nodes at the hackathon by sharing device information from the community. [@Oleg](https://forum.schoolofdata.ch/users/oleg/) and [@Heidi](https://forum.schoolofdata.ch/users/heidi/) asked the teams at Make Zurich to share their applications on The Things Network.
 

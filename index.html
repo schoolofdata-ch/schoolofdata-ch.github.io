@@ -17,7 +17,11 @@ layout: default
 	{% for post in site.posts %}{% if post.frontpage %}
 	<article class="{{ post.style }}">
 		<span class="image">
-			<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+			{% if post.image contains '://' %}
+			<img src="{{ post.image }}" />
+			{% else %}
+			<img src="{{ site.baseurl }}/{{ post.image }}" />
+			{% endif %}
 		</span>
 		<a href="{{ post.url | prepend: site.baseurl }}">
 			<p>{{ post.when | date: "%b %-d, %Y" }}</p>
