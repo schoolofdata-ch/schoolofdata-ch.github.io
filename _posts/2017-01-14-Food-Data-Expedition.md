@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: Food Data Expedition
+title: Open Food Data
 when: 2017-01-14
 date: 2017-01-14
 tagline:
@@ -10,7 +10,7 @@ style: style1
 frontpage: true
 ---
 
-> To those who joined our 1st [School of Data workshop](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175/1) of the year, spending part of last weekend to explore food-related datasets with us - you were an awesome group to work with, _thanks for coming!_ To everyone else, you can still plug into our effort: keep reading to find out how.
+> To those who joined our 1st [School of Data workshop](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175/1) of the year, spending part of last weekend to explore food-related datasets with us - you were an awesome group to work with, _thanks for coming!_ See [Hackday results](https://hack.opendata.ch/event/6) for a list of Data Packages we produced.
 
 Facilitated by [Oleg](https://forum.schoolofdata.ch/users/oleg), [Heidi](https://forum.schoolofdata.ch/users/heidi) and [Florian](https://forum.schoolofdata.ch/users/florianwieser), we started off our latest session with an introduction to **Open Food Data**, an exciting new program that begins with [hackdays on February 10-11](http://food.opendata.ch).
 
