@@ -5,7 +5,7 @@ title: Make Zurich
 when: 2017-02-04
 date: 2017-02-04
 tagline:
-image: http://soda.camp/workshops/2017/makezurich/allthethings/viz.png
+image: images/posts/makezurich-2017.png
 style: style1
 frontpage: true
 ---
