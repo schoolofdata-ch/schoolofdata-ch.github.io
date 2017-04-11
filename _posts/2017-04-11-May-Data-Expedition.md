@@ -32,7 +32,9 @@ Join us as we learn to better explore information sources - to make our own anal
 - 16:30 get *FURTHER DIRECTIONS* for deeper learning and connect to online communities of practice
 - 17:00 wrap up with a small apéro offered by Schoolofdata.ch
 
-We want to involve people with all kinds of skills at this event, whether you are a nutritionist, a data expert or just someone who likes to learn how to work with data. We will be working in groups and learn from each other.
+We want to involve people with all kinds of skills at this event, whether you are a student or professional, an information guru or just someone who likes to learn how to work with data for the first time. We will be working in groups and learn from each other. Registered and confirmed participants will be invited to a private colloquy to network with fellow participants and coaches before and after.
+
+> define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
 
 This Data Expedition will be facilitated by [@Oleg](https://forum.schoolofdata.ch/users/oleg/), [@Peter]() and [@Florin]()
 
@@ -48,6 +50,4 @@ We are committed to organising accessible public events to as wide an audience a
 
 ### How to follow
 
-Sign up to our forum to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
-
-> define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
+Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdatach) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
