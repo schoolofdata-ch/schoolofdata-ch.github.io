@@ -2,8 +2,8 @@
 layout: post
 author: Oleg Lavrovsky
 title: May Data Expedition
-when: 2017-05-12
-date: 2017-04-12
+when: 2017-05-05
+date: 2017-04-11
 tagline:
 image: 
 style: style1
@@ -12,9 +12,9 @@ frontpage: false
 
 <table>
 <tr><th>What:</th><td>May Data!</td></tr>
-<tr><th>When:</th><td>Friday, May 12, 2017, 9:00 - 17:00</td></tr>
+<tr><th>When:</th><td>Friday, May 5, 2017, 9:00 - 17:00</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland</td></tr>
-<tr><th>Cost:</th><td>Pay-it-forward</td></tr>
+<tr><th>Cost:</th><td><a href="#costs">Pay-it-forward</a></td></tr>
 <tr><th>Bring:</th><td>A laptop or tablet. Lunch provided.</td></tr>
 <tr><th></th><td><a href="#register" class="button special">Register now!</a></td></tr>
 </table>
@@ -34,14 +34,18 @@ Join us as we learn to better explore information sources - to make our own anal
 
 We want to involve people with all kinds of skills at this event, whether you are a student or professional, an information guru or just someone who likes to learn how to work with data for the first time. We will be working in groups and learn from each other. Registered and confirmed participants will be invited to a private colloquy to network with fellow participants and coaches before and after.
 
-> define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
+> *define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak*
+
+### Coaches
 
 This Data Expedition will be facilitated by [@Oleg](https://forum.schoolofdata.ch/users/oleg/), [@Peter]() and [@Florin]()
+
+More details on our coaches to come!
 
 <a name="costs"></a>
 ### Costs
 
-We are committed to organising accessible public events to as wide an audience as possible. So far the School of Data has been supported by the Swiss association Opendata.ch. We encourage a [minimum donation of CHF 200](http://opendata.ch/spenden) for this course. Your support will go a long way to ensure more high quality events in the future!
+We are committed to organising accessible public events to as wide an audience as possible. The School of Data in Switzerland is supported by the national association Opendata.ch, and is run and facilitated by volunteers. We encourage a [minimum donation of CHF 200](http://opendata.ch/spenden) for this course. Your support will go a long way to ensure high quality events and resources in the future!
 
 <a name="register"></a>
 ### Registration
