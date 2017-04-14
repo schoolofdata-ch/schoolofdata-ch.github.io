@@ -10,7 +10,7 @@ style: style1
 frontpage: true
 ---
 
-> Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literateliterate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
+> Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
 
 <table style="background:url(/images/posts/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
 <tr><th>When:</th><td><span style="background:white">Friday, <b>May 5, 2017</b>, 9:00 - 17:00</span></td></tr>
@@ -53,7 +53,7 @@ We are committed to organising accessible public events to as wide an audience a
 
 ### Follow
 
-Please [contact us](https://schoolofdata-ch.github.io/#contact) in case of any questions. Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events). Thanks for inviting your friends and !
+Please [contact us](https://schoolofdata-ch.github.io/#contact) in case of any questions. Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events). Thanks for inviting your friends / colleagues!
 
 ```
 define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
