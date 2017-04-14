@@ -74,9 +74,10 @@ en:
 title: School of Data Switzerland
 url: "https://schoolofdata.ch"
 email: info@schoolofdata.ch
-twitter: schoolofdata
+forum: "https://forum.schoolofdata.ch"
+twitter: schoolofdata_ch
 facebook: schoolofdata
-github: schoolofdata-swiss
+github: schoolofdata-ch
 grecaptcha:
   key: 6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ
 
