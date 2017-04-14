@@ -47,51 +47,13 @@ We are committed to organising accessible public events to as wide an audience a
 
 ### Registration
 
-<form method="post" action="https://utou.ch/scoda.php">
-<div class="row uniform">
-<div class="6u 12u$(small)">
-Signing up ...
-<input checked="" id="signup-human-me" name="signup-human" type="radio">
-<label for="signup-human-me">myself</label>
-<div class="select-wrapper">
-<select name="SKILL" id="signup-category">
-<option value="">I can ..</option>
-<option value="Beginner">fill out forms</option>
-<option value="Intermediate">connect spreadsheets</option>
-<option value="Advanced">run database queries</option>
-<option value="Expert">use Linked Data sources</option>
-</select>
-</div>
-</div>
-<div class="6u$ 12u$(small)">
-<input id="signup-human-org" name="signup-human" onclick="$('#signup-org').show()" type="radio">
-<label for="signup-human-org">my organisation</label>
-<input style="display:none" name="ORG" id="signup-org" value="" placeholder="Organisation" type="text">
-</div>
-<div class="6u 12u$(xsmall)">
-<input name="NAME" id="signup-name" value="" placeholder="Name" required="" type="text">
-</div>
-<div class="6u$ 12u$(xsmall)">
-<input name="EMAIL" id="signup-email" value="" placeholder="E-mail" required="" type="email">
-</div>
-<div class="12u$">
-<div class="textarea-wrapper"><textarea style="overflow: hidden; resize: none; height: 69px;" name="COMMENT" id="signup-message" placeholder="Message" rows="1" required=""></textarea></div>
-</div>
-<div class="12u$">
-<div class="g-recaptcha" data-sitekey="6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ"><div style="width: 304px; height: 78px;"><div><iframe name="undefined" scrolling="no" title="reCAPTCHA-Widget" src="https://www.google.com/recaptcha/api2/anchor?k=6Lco8A8UAAAAAH68UXg94Ib9ptw6fRGxnZtSb0oQ&amp;co=aHR0cDovL2xvY2FsaG9zdDo0MDAw&amp;hl=de&amp;v=r20170411114922&amp;size=normal&amp;cb=72ew8akvmvjh" frameborder="0" height="78" width="304"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
-<input name="lang" value=".en" type="hidden">
-<ul class="actions">
-<li><input value="Send" class="special" type="submit"></li>
-</ul>
-</div>
-</div>
-</form>
+<script src="https://cdn.weemss.com/compiled/js/integration-embed.js?v76.8"></script><iframe src="https://event.gg/6088/form/6082" id="weemss_integration_6082" frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
 
 <a name="follow"></a>
 
 ### Follow
 
-Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
+Please [contact us](https://schoolofdata-ch.github.io/#contact) in case of any questions. Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events). Thanks for spreading word!
 
 ```
 define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
