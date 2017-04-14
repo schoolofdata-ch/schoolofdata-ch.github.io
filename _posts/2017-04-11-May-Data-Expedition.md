@@ -5,17 +5,16 @@ title: May Data Expedition
 when: 2017-05-05
 date: 2017-04-11
 tagline:
-image: /images/sodacamp-001.png
+image: images/posts/sodacamp-001.png
 style: style1
 frontpage: true
 ---
 
 > Our next full-day event in Bern is about data **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate*: to go beyond making decisions from charts and factoids, to discover and delight in a multitude of ways to "dig in" beyond the surface level.
 
-<table style="background:url(/images/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
-<tr><th>What:</th><td>May Data!</td></tr>
-<tr><th>When:</th><td>Friday, May 5, 2017, 9:00 - 17:00</td></tr>
-<tr><th>Where:</th><td>Bern, Switzerland</td></tr>
+<table style="background:url(/images/posts/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
+<tr><th>When:</th><td><span style="background:white">Friday, <b>May 5, 2017</b>, 9:00 - 17:00</span></td></tr>
+<tr><th>Where:</th><td><span style="background:white">Bern, Switzerland</span></td></tr>
 <tr><th>Cost:</th><td><a style="background:white" href="#costs">Pay-it-forward</a></td></tr>
 <tr><th>Bring:</th><td><span style="background:white">A laptop or tablet. Lunch provided.</span></td></tr>
 <tr><th></th><td><a href="#register" class="button special" style="margin:2em 0">Register now!</a></td></tr>
