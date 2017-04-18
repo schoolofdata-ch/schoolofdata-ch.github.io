@@ -12,22 +12,23 @@ frontpage: true
 
 > Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
 
-<table style="background:url(/images/posts/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
-<tr><th>When:</th><td><span style="background:white">Friday, <b>May 5, 2017</b>, 9:00 - 17:00</span></td></tr>
-<tr><th>Where:</th><td><span style="background:white">Bern, Switzerland</span></td></tr>
-<tr><th>Level:</th><td><span style="background:white">Beginner data user</span></td></tr>
-<tr><th>Lang:</th><td><span style="background:white">Deutsch / Français / English</span></td></tr>
-<tr><th>Cost:</th><td><a style="background:white" href="#costs">Pay-it-forward</a></td></tr>
-<tr><th>Bring:</th><td><span style="background:white">A laptop or tablet. Lunch provided.</span></td></tr>
-<tr><th></th><td><a href="#register" class="button special" style="margin:2em 0">Register now!</a></td></tr>
+<table>
+<tr><th> When </th>
+<td>Friday, <b>May 5, 2017</b>, 9:00 - 17:00</td></tr>
+<tr><th> Where </th><td>Bern, Switzerland</td></tr>
+<tr><th> Level </th><td>Beginner data user</td></tr>
+<tr><th> Lang </th><td>Deutsch / Français / English</td></tr>
+<tr><th> Cost </th><td><a href="#costs">Pay-it-forward</a></td></tr>
+<tr><th> Bring </th><td>A laptop or tablet. Lunch provided.</td></tr>
+<tr style="background:url(/images/posts/sodacamp-001.png) bottom;background-size:auto 180%"><th></th><td><a href="#register" class="button special">Register now!</a></td></tr>
 </table>
-
-Join us to explore information sources, check facts with our own meta-analysis, and communicate findings effectively - to wake up to a vivid world of open data.
 
 * _Englischkenntnisse sind in unserem Workshop von Vorteil, aber nicht zwingend. Materialen und Anweisungen sind auch **auf Deutsch** verfügbar._
 * _De bonnes connaissances en anglais seraient un atout, non pas obligatoire. On peut fournir sur demande les liens et répondre sur place **en français**._
 
-At this hands-on workshop we will:
+Our goal is to involve people with **all skill levels** at this event, whether you are a beginning student or seasoned professional, an information discovery guru, or just someone who likes to learn how to work with data for the first time. We will be working in groups and continue learning from each other. Registered and confirmed participants will be invited to [colloquy](#follow) with fellow participants and coaches.
+
+Join us to explore information sources, check facts with our own meta-analysis, and communicate findings effectively - to wake up to a vivid world of open data. At this hands-on full-day event, we will:
 
 - 09:00 start with **TAMING DATA DRAGONS**, brief introductions, and sharing of core concepts and principles
 - 09:30 jump into **FINDING RELEVANCE** for exploring my world, my neighbourhood, my self in data
@@ -38,23 +39,21 @@ At this hands-on workshop we will:
 - 16:30 get **FURTHER DIRECTIONS** for deeper learning and connect to online communities of practice
 - 17:00 enjoy a **KNIGHTS AT THE TABLE** wrap up with [anniversary^2](https://blog.soda.camp/001/) apéro offered by our hosts
 
-Our goal is to involve people with **all skill levels** at this event, whether you are a beginning student or seasoned professional, an information discovery guru, or just someone who likes to learn how to work with data for the first time. We will be working in groups and continue learning from each other. Registered and confirmed participants will be invited to network and colloquy[*](#follow) with fellow participants and coaches.
-
-### Coaches
-
 This Data Expedition will be facilitated by:
 
-**Florin Hasler**; RELEVANCE; COMMUNICATION; IMPACT; [@florihas](https://twitter.com/florihas)
-
-**Peter Pearman**; ANALYSIS; CORRELATION; VISUALIZATION; @[researchgate](https://www.researchgate.net/profile/Peter_Pearman)
-
-**Oleg Lavrovsky**; STANDARDS; SOURCES; TOOLS; [@loleg](https://forum.schoolofdata.ch/users/oleg/)
+- **Florin Hasler**; RELEVANCE; COMMUNICATION; IMPACT; [@florihas](https://twitter.com/florihas)
+- **Peter Pearman**; ANALYSIS; CORRELATION; VISUALIZATION; [Researchgate](https://www.researchgate.net/profile/Peter_Pearman)
+- **Oleg Lavrovsky**; CONCEPTS; STANDARDS; SOURCES; TOOLS; [@loleg](https://forum.schoolofdata.ch/users/oleg/)
 
 <a name="costs"></a>
 
 ### Costs
 
-We are committed to organising accessible public events to as wide an audience as possible. The School of Data in Switzerland is supported by the national association [Opendata.ch](http://opendata.ch), and is run and facilitated by volunteers. We suggest a [minimum donation of **CHF 200**](http://opendata.ch/spenden) (students/AHV/IV: **CHF 80**) to those who benefit from this workshop. Your support will pay for the next round, as prior participants have paved the way for this one. Thank you for helping us to ensure high quality public events and open data literacy resources!
+We are committed to organising accessible public events to as wide an audience as possible. The School of Data in Switzerland is supported by the national association [Opendata.ch](http://opendata.ch), and is run and facilitated by volunteers.
+
+We kindly suggest a [minimum donation of **CHF 200**](http://opendata.ch/spenden) (students/AHV/IV: **CHF 80**) to those who benefit from this workshop. Your support will pay for the next round, as prior participants have paved the way for this one.
+
+Thank you for helping us to ensure high quality public events and open data literacy resources!
 
 <a name="register"></a>
 
