@@ -12,9 +12,14 @@ frontpage: true
 
 > Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
 
+* **Englischkenntnisse** sind in unserem Workshop von Vorteil, aber nicht zwingend. Materialen und Anweisungen sind auch auf Deutsch verfügbar.
+* De bonnes **connaissances en anglais** seraient un atout, non pas obligatoire. On peut aussi fournir sur demande les documents en français, et une traduction en place sera assurée.
+
 <table style="background:url(/images/posts/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
 <tr><th>When:</th><td><span style="background:white">Friday, <b>May 5, 2017</b>, 9:00 - 17:00</span></td></tr>
 <tr><th>Where:</th><td><span style="background:white">Bern, Switzerland</span></td></tr>
+<tr><th>Level:</th><td><span style="background:white">Beginner data user</span></td></tr>
+<tr><th>Lang:</th><td><span style="background:white">Deutsch / Français / English</span></td></tr>
 <tr><th>Cost:</th><td><a style="background:white" href="#costs">Pay-it-forward</a></td></tr>
 <tr><th>Bring:</th><td><span style="background:white">A laptop or tablet. Lunch provided.</span></td></tr>
 <tr><th></th><td><a href="#register" class="button special" style="margin:2em 0">Register now!</a></td></tr>
@@ -26,16 +31,22 @@ Join us to explore information sources, check facts with our own meta-analysis, 
 - 09:30 jump into **FINDING RELEVANCE** for exploring my world, my neighbourhood, my self in data
 - 10:30 learn to **VISUALIZE OPEN DATA** using free tools, and break the "Chart" button spell
 - 12:00 take a **BROWN BAG LUNCH BREAK** for story sharing, networking and nutrition
-- 13:00 freshen up with **STATISTICAL ANALYSIS 101** a brief primer in causation, correlation and fact-checking
+- 13:00 freshen up with **STATISTICAL ANALYSIS** a brief primer in causation, correlation and fact-checking
 - 14:00 go hands on with **BUILD-YOUR-OWN-DATA PROJECTS** and get individualised help in your chosen area
 - 16:30 get **FURTHER DIRECTIONS** for deeper learning and connect to online communities of practice
-- 17:00 wrap up with [anniversary^2](https://blog.soda.camp/001/) apéro offered by our hosts
+- 17:00 enjoy a **KNIGHTS AT THE TABLE** wrap up with [anniversary^2](https://blog.soda.camp/001/) apéro offered by our hosts
 
 Our goal is to involve people with **all skill levels** at this event, whether you are a beginning student or seasoned professional, an information discovery guru, or just someone who likes to learn how to work with data for the first time. We will be working in groups and continue learning from each other. Registered and confirmed participants will be invited to network and colloquy[*](#follow) with fellow participants and coaches.
 
 ### Coaches
 
-This Data Expedition will be facilitated by [@Oleg](https://forum.schoolofdata.ch/users/oleg/) (standards, platforms, tools), [@Peter](https://www.researchgate.net/profile/Peter_Pearman) (statistics, analysis, machine learning) and [@Florin](https://www.globalshapers.org/shapers/florin-hasler) (visualisation, communication, impact).
+This Data Expedition will be facilitated by:
+
+**Florin Hasler**; RELEVANCE; COMMUNICATION; IMPACT; [@florihas](https://twitter.com/florihas)
+
+**Peter Pearman**; ANALYSIS; CORRELATION; VISUALIZATION; @[researchgate](https://www.researchgate.net/profile/Peter_Pearman)
+
+**Oleg Lavrovsky**; STANDARDS; SOURCES; TOOLS; [@loleg](https://forum.schoolofdata.ch/users/oleg/)
 
 <a name="costs"></a>
 
