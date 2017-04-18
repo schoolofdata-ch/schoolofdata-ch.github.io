@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: May Data Expedition
+title: May Data!
 when: 2017-05-05
 date: 2017-04-11
 tagline:
@@ -11,9 +11,6 @@ frontpage: true
 ---
 
 > Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
-
-* **Englischkenntnisse** sind in unserem Workshop von Vorteil, aber nicht zwingend. Materialen und Anweisungen sind auch auf Deutsch verfügbar.
-* De bonnes **connaissances en anglais** seraient un atout, non pas obligatoire. On peut aussi fournir sur demande les documents en français, et une traduction en place sera assurée.
 
 <table style="background:url(/images/posts/sodacamp-001.png) no-repeat bottom right;background-size:auto 80%">
 <tr><th>When:</th><td><span style="background:white">Friday, <b>May 5, 2017</b>, 9:00 - 17:00</span></td></tr>
@@ -25,7 +22,12 @@ frontpage: true
 <tr><th></th><td><a href="#register" class="button special" style="margin:2em 0">Register now!</a></td></tr>
 </table>
 
-Join us to explore information sources, check facts with our own meta-analysis, and communicate findings effectively - to wake up to a vivid world of open data. At this hands-on workshop we will:
+Join us to explore information sources, check facts with our own meta-analysis, and communicate findings effectively - to wake up to a vivid world of open data.
+
+* _Englischkenntnisse sind in unserem Workshop von Vorteil, aber nicht zwingend. Materialen und Anweisungen sind auch **auf Deutsch** verfügbar._
+* _De bonnes connaissances en anglais seraient un atout, non pas obligatoire. On peut fournir sur demande les liens et répondre sur place **en français**._
+
+At this hands-on workshop we will:
 
 - 09:00 start with **TAMING DATA DRAGONS**, brief introductions, and sharing of core concepts and principles
 - 09:30 jump into **FINDING RELEVANCE** for exploring my world, my neighbourhood, my self in data

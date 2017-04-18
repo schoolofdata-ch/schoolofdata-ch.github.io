@@ -162,6 +162,15 @@
 				}
 			}
 
+			&.style7 {
+				> .image:before {
+					background-color: white;
+				}
+				a, a:hover {
+					color: #00aff0;
+				}
+			}
+
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
@@ -188,14 +197,14 @@
 		* + & {
 			margin-bottom: _size(element-margin);
 		}
-
+/*
 		body.is-loading & {
 			article {
 				@include vendor('transform', 'scale(0.9)');
 				opacity: 0;
 			}
 		}
-
+*/
 		body.is-touch & {
 			article {
 				.content {

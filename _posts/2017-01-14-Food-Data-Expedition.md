@@ -6,7 +6,7 @@ when: 2017-01-14
 date: 2017-01-14
 tagline:
 image: images/posts/food.jpg
-style: style1
+style: style2
 frontpage: true
 ---
 
