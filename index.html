@@ -13,8 +13,8 @@ layout: default
 
 <hr>
 <h2>{{ site.de.current.title }}</h2>
-<section class="tiles">
-	{% for post in site.posts %}{% if post.frontpage %}
+<section id="frontpage" class="tiles">
+{% for post in site.posts %}{% if post.frontpage %}
 	<article class="{{ post.style }}">
 		<span class="image">
 			{% if post.image contains '://' %}
@@ -31,31 +31,21 @@ layout: default
 			</div>
 		</a>
 	</article>
-	{% endif %}{% endfor %}
+{% endif %}{% endfor %}
+
+	<article class="style7">
+		<span class="image"><img src="{{ site.baseurl }}/images/alpsup.jpg"></span>
+		<a href="#contact">
+			<p>-/-</p>
+			<h2>Ihren Anlass</h2>
+			<div class="content">
+				<p>Gerne offen für Vorschläge</p>
+			</div>
+		</a>
+	</article>
 </section>
 
 <hr>
-<section id="twitter">
-	<div class="row">
-		<div class="6u 12u$(medium)">
-			<div id='discourse-comments'></div>
-			<script type="text/javascript">
-			DiscourseEmbed = { discourseUrl: 'http://forum.schoolofdata.ch/',
-			discourseEmbedUrl: 'https://schoolofdata-ch.github.io' };
-			(function() {
-				var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-				d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-			})();
-			</script>
-		</div>
-		<div class="6u 12u$(medium)">
-			<a class="twitter-timeline" data-lang="en" data-height="360" data-dnt="true" href="https://twitter.com/schoolofdata_ch/lists/network">A Twitter List by schoolofdata_ch</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-		</div>
-	</div>
-</section>
-<hr>
-
 <section id="info">
 	<div class="row">
 		<div class="6u 12u$(medium)">

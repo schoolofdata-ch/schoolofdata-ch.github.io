@@ -6,7 +6,7 @@ when: 2017-02-04
 date: 2017-02-04
 tagline:
 image: images/posts/makezurich-2017.png
-style: style1
+style: style2
 frontpage: true
 ---
 
