@@ -14,7 +14,7 @@ frontpage: true
 
 <table>
 <tr><th> When </th>
-<td>Friday, <b>May 5, 2017</b>, 9:00 - 17:00</td></tr>
+<td>TBD</td></tr>
 <tr><th> Where </th><td>Bern, Switzerland</td></tr>
 <tr><th> Level </th><td>Beginner data user</td></tr>
 <tr><th> Lang </th><td>Deutsch / Français / English</td></tr>
@@ -51,7 +51,7 @@ This Data Expedition will be facilitated by:
 
 We are committed to organising accessible public events to as wide an audience as possible. The School of Data in Switzerland is supported by the national association [Opendata.ch](http://opendata.ch), and is run and facilitated by volunteers.
 
-We kindly suggest a [minimum donation of **CHF 200**](http://opendata.ch/spenden) (students/AHV/IV: **CHF 80**) to those who benefit from this workshop. Your support will pay for the next round, as prior participants have paved the way for this one.
+We suggest a [donation of 200.-](http://opendata.ch/spenden) (students/AHV/IV: 50.-) to professionals who benefit from this workshop, and to offset some of the infrastructure costs required. Your support will pay for the next round, as prior participants have paved the way for this one.
 
 Thank you for helping us to ensure high quality public events and open data literacy resources!
 
@@ -59,7 +59,7 @@ Thank you for helping us to ensure high quality public events and open data lite
 
 ### Registration
 
-<script src="https://cdn.weemss.com/compiled/js/integration-embed.js?v76.8"></script><iframe src="https://event.gg/6088/form/6082" id="weemss_integration_6082" frameBorder="0" width="100%" height="450" scrolling="no"></iframe>
+We are currently looking for a new date and time, since we were unable to fully book the May 5 workshop. There will still be a lunchtime meetup happening with the coaches, [feel free to join](http://techup.ch/2509/school-of-data-may-expedition). Please [share your preference](/#contact) with us - and let us know if you would like to help recruit participants or contribute in any other way!
 
 <a name="follow"></a>
 
