@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: Make Zurich
+title: Workshop
 when: 2017-02-04
 date: 2017-02-04
 tagline:

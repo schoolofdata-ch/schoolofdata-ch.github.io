@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: Open Food Data
+title: Expedition
 when: 2017-01-14
 date: 2017-01-14
 tagline:

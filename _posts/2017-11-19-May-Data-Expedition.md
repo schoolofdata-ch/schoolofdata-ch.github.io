@@ -1,13 +1,13 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: May Data!
-when: 2017-05-05
-date: 2017-04-11
+title: Workshop
+when: 2017-11-19
+date: 2017-11-01
 tagline:
 image: images/posts/sodacamp-001.png
 style: style1
-frontpage: true
+frontpage: false
 ---
 
 > Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
