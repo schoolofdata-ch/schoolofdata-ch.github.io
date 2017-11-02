@@ -7,7 +7,7 @@ date: 2017-01-14
 tagline:
 image: images/posts/food.jpg
 style: style2
-frontpage: true
+frontpage: false
 ---
 
 > To those who joined our 1st [School of Data workshop](https://forum.schoolofdata.ch/t/14-1-food-data-expedition/175/1) of the year, spending part of last weekend to explore food-related datasets with us - you were an awesome group to work with, _thanks for coming!_ See [Hackday results](https://hack.opendata.ch/event/6) for a list of Data Packages we produced.
