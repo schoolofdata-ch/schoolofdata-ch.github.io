@@ -1,14 +1,21 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: Expedition Open
+title: Expedition
 when: 2017-10-19
 date: 2017-10-01
 tagline:
 image: images/posts/arosa.jpg
-style: style1
+style: style2
 frontpage: true
 ---
+
+This workshop has taken place. Thanks to all participants for your fantastic support in getting all the data together! The results of the hackdays are now [available at hack.opendata.ch](https://hack.opendata.ch/event/9).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Quick selfie from our workshop today. Many thanks to everyone pitching in to produce <a href="https://twitter.com/hashtag/DataPackages?src=hash&amp;ref_src=twsrc%5Etfw">#DataPackages</a> for the upcoming <a href="https://twitter.com/hashtag/opendatach?src=hash&amp;ref_src=twsrc%5Etfw">#opendatach</a> hackdays! <a href="https://t.co/KGACzhPIKr">pic.twitter.com/KGACzhPIKr</a></p>&mdash; School of Data CH (@schoolofdata_ch) <a href="https://twitter.com/schoolofdata_ch/status/920981073944895488?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Background
 
 <table>
 <tr><th>What:</th><td>Find and clean data sets and make them available. Preparation for the <a href="http://tourism.opendata.ch">Open Tourism Data Hackdays</a>.</td></tr>
