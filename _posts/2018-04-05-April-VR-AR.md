@@ -1,20 +1,22 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: Workshop
-when: 2017-11-19
-date: 2017-11-01
+title: VR + AR Workshop
+when: 2018-04-05
+date: 
 tagline:
 image: images/posts/sodacamp-001.png
 style: style1
 frontpage: false
 ---
 
-> Our next full-day event in Bern is about **DISCOVERY, ANALYSIS & PERSUASION**. We will introduce the principles by which the [School of Data](http://schoolofdata.org/) has helped thousands of people around the world to become *data literate:* to go beyond making decisions from charts and factoids, to discover and delight in worlds of information as we go beyond surface level.
+# VR+AR workshop at E-0010
+> After a Ski break, the Bern exclusive event featuring new and award-winning short films presented in Virtual Reality (VR) by We Are Cinema will take place again at Effinger in the newly launched E-0010.space. We would like to run a one-day introductory workshop in August about content creation for Virtual and Augmented Reality, in collaboration with We Are Cinema, SUPSI, AugmentIT, and other groups interested in these new media.
+**We encourage everyone to attend, there are no specific skill requirements**, though some experience with 2D illustration or 3D modelling tools would be an asset.
 
 <table>
 <tr><th> When </th>
-<td>TBD</td></tr>
+<td>TBD: Thursday, April 5, 2018</td></tr>
 <tr><th> Where </th><td>Bern, Switzerland</td></tr>
 <tr><th> Level </th><td>Beginner data user</td></tr>
 <tr><th> Lang </th><td>Deutsch / Français / English</td></tr>
@@ -26,9 +28,12 @@ frontpage: false
 * _Englischkenntnisse sind in unserem Workshop von Vorteil, aber nicht zwingend. Materialen und Anweisungen sind auch **auf Deutsch** verfügbar._
 * _De bonnes connaissances en anglais seraient un atout, non pas obligatoire. On peut fournir sur demande les liens et répondre sur place **en français**._
 
-Our goal is to involve people with **all skill levels** at this event, whether you are a beginning student or seasoned professional, an information discovery guru, or just someone who likes to learn how to work with data for the first time. We will be working in groups and continue learning from each other. Registered and confirmed participants will be invited to [colloquy](#follow) with fellow participants and coaches.
+### Goals
+With free tools such as Vizor and A-Frame, you can create your first online 3D project in minutes, even without ever having created a website before. We will demonstrate some advanced tools, such as modelling tools, panoramic photography and videography, and animation engines used to make feature films, and give you time to explore the technology at your own pace.
 
-Join us to explore information sources, check facts with our own meta-analysis, and communicate findings effectively - to wake up to a vivid world of open data. At this hands-on full-day event, we will:
+Depending on interest levels, we can use the chance to talk about 3D data visualisation, electronic art, motion capture and modelling, 360° photography, and other special capabilities we plan to develop as part of the digital co-creation program for coworkers at Effinger's new underground lab.
+
+At this hands-on full-day(?) event, we will:
 
 - 09:00 start with **TAMING DATA DRAGONS**, brief introductions, and sharing of core concepts and principles
 - 09:30 jump into **FINDING RELEVANCE** for exploring my world, my neighbourhood, my self in data
@@ -41,13 +46,20 @@ Join us to explore information sources, check facts with our own meta-analysis, 
 
 This Data Expedition will be facilitated by:
 
-- **Florin Hasler**; RELEVANCE; COMMUNICATION; IMPACT; [@florihas](https://twitter.com/florihas)
-- **Peter Pearman**; ANALYSIS; CORRELATION; VISUALIZATION; [Researchgate](https://www.researchgate.net/profile/Peter_Pearman)
+-
 - **Oleg Lavrovsky**; CONCEPTS; STANDARDS; SOURCES; TOOLS; [@loleg](https://forum.schoolofdata.ch/users/oleg/)
 
 <a name="costs"></a>
 
+### Materials
+
+If you bring your laptop, we will help you install free software to start developing VR content on your own. No coding required. But even with just a recent smartphone (iPhone 5 and up, Android "Lollipop" 5+), you can explore this thrilling new medium and upload your own content in virtual spaces.
+
+We will have Google Cardboard, Samsung GearVR and Oculus headsets available. If you have your own device(s), you are of course welcome to bring them with you!
+
 ### Costs
+
+We are currently determining whether and what cost applies to participating in this workshop. If you are interested in having your organisation sponsor this event, please contact us.
 
 We are committed to organising accessible public events to as wide an audience as possible. The School of Data in Switzerland is supported by the national association [Opendata.ch](http://opendata.ch), and is run and facilitated by volunteers.
 
@@ -59,7 +71,7 @@ Thank you for helping us to ensure high quality public events and open data lite
 
 ### Registration
 
-We are currently looking for a new date and time, since we were unable to fully book the May 5 workshop. There will still be a lunchtime meetup happening with the coaches, [feel free to join](http://techup.ch/2509/school-of-data-may-expedition). Please [share your preference](/#contact) with us - and let us know if you would like to help recruit participants or contribute in any other way!
+The proposed date is Thursday, April 5, 2018. Time TBD. Let us know if you would like to help recruit participants or contribute in any other way!
 
 <a name="follow"></a>
 
@@ -67,6 +79,8 @@ We are currently looking for a new date and time, since we were unable to fully 
 
 Please [contact us](https://schoolofdata-ch.github.io/#contact) in case of any questions. Sign up to our [public forum](https://forum.schoolofdata.ch) or [newsletter](http://tinyletter.com/schoolofdata-ch) to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events). Thanks for inviting your friends / colleagues!
 
-```
-define:colloquy - Latin colloquium, from colloqui to converse, from com- + loqui to speak
-```
+### Venue
+The workshop will take place at [Effinger E-0010](https://blog.datalets.ch/e-0010/). Check out this VR simulation of our space: http://vizor.io/loleg/e-0010-0011
+
+### BONUS
+All projects created during this workshop will be published on our online site, and a public exhibition set up at E-0010 with instructions and headsets for visitors to explore your work.
