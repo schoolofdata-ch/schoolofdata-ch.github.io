@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Oleg Lavrovsky
-title: VR + AR Workshop
+title: VR/AR Workshop
 when: 2018-04-05
-date: 
+date: 2018-02-01
 tagline:
 image: images/posts/sodacamp-001.png
 style: style1
@@ -11,7 +11,7 @@ frontpage: false
 ---
 
 # VR+AR workshop at E-0010
-> After a Ski break, the Bern exclusive event featuring new and award-winning short films presented in Virtual Reality (VR) by We Are Cinema will take place again at Effinger in the newly launched E-0010.space. We would like to run a one-day introductory workshop in August about content creation for Virtual and Augmented Reality, in collaboration with We Are Cinema, SUPSI, AugmentIT, and other groups interested in these new media.
+> After a break, the Bern exclusive event featuring new and award-winning short films presented in Virtual Reality (VR) by We Are Cinema will take place again at the [E-0010 space](https://www.effinger.ch/raeume/zweites-ug/). We plan to run a one-day introductory workshop in August about content creation for Virtual and Augmented Reality, in collaboration with partnering institutions interested in these new media.
 **We encourage everyone to attend, there are no specific skill requirements**, though some experience with 2D illustration or 3D modelling tools would be an asset.
 
 <table>
@@ -29,7 +29,12 @@ frontpage: false
 * _De bonnes connaissances en anglais seraient un atout, non pas obligatoire. On peut fournir sur demande les liens et répondre sur place **en français**._
 
 ### Goals
+
 With free tools such as Vizor and A-Frame, you can create your first online 3D project in minutes, even without ever having created a website before. We will demonstrate some advanced tools, such as modelling tools, panoramic photography and videography, and animation engines used to make feature films, and give you time to explore the technology at your own pace.
+
+[![](/images/posts/aletschvr.jpg)](https://opendata.utou.ch/aletsch/2018/)
+
+Check out our **[GLACIER DATA VISUALISATION](https://opendata.utou.ch/aletsch/2018/)** as an example!
 
 Depending on interest levels, we can use the chance to talk about 3D data visualisation, electronic art, motion capture and modelling, 360° photography, and other special capabilities we plan to develop as part of the digital co-creation program for coworkers at Effinger's new underground lab.
 
@@ -47,7 +52,7 @@ At this hands-on full-day(?) event, we will:
 This Data Expedition will be facilitated by:
 
 -
-- **Oleg Lavrovsky**; CONCEPTS; STANDARDS; SOURCES; TOOLS; [@loleg](https://forum.schoolofdata.ch/users/oleg/)
+- **Oleg Lavrovsky** - [@loleg](https://forum.schoolofdata.ch/users/oleg/)
 
 <a name="costs"></a>
 
