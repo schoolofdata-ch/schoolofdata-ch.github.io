@@ -27,10 +27,11 @@ Several of these seemed especially promising (in terms of openness, accessibilit
 
 Thanks go to [THES/Raum für Bildung](http://www.thes-effinger.ch/) for use of the outstanding facilities at [Effinger](http://effinger.ch), and to [Opendata.ch](http://Opendata.ch) and [Engagement Migros](http://engagement.ch/) for providing the momentum and _food_ to keep us going :)
 
-If you have any follow up questions or feedback, shoot us a note on [our forum thread](http://forum.schoolofdata.ch) or via [Twitter](http://twitter.com/schoolofdata_ch). If you would like us to run another workshop like this one, even in another city or at your organisation - let's [get in touch](http://schoolofdata.ch). Here are upcoming dates:
+If you have any follow up questions or feedback, shoot us a note on [our forum thread](http://forum.schoolofdata.ch) or via [Twitter](http://twitter.com/schoolofdata_ch). If you would like us to run another workshop like this one, even in another city or at your organisation - let's [get in touch](http://schoolofdata.ch). Here are upcoming dates from [our calendar](https://forum.schoolofdata.ch/t/upcoming-events/40):
 
-*   [Food Hack Geneva](https://www.foodhack.ch/), Geneva
-*   [Global Open Data for Agriculture and Nutrition (GODAN)](http://www.godan.info/news/godan-data-ecosystem-wg-decides-future-actions-plans)
-
+*   January 31 - [Open Data Meetup](https://www.meetup.com/Lausanne-Open-Data-Meetup/events/236372953/), Lausanne
+*   February 3+4 - [Make Zurich 2017](https://forum.schoolofdata.ch/t/3-4-2-make-zurich-2017/173/1) ([register here](https://www.eventbrite.com/e/make-zurich-2017-hackathon-registration-29362587289))
+*   February 10+11 - [Open Food Hackdays](https://food.opendata.ch/), Zürich + Lausanne
+*   March 4 - [Open Data Day Hackathon](http://zurich-r-user-group.github.io/hackathon.html), Zürich ([collecting ideas](https://github.com/OpenDataDayZurich2016/ideas) now!)
 
 Have a great start to the year & _bon appetit!_
