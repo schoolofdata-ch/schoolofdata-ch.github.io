@@ -42,9 +42,9 @@ On our [Datacentral website](http://openfood.schoolofdata.ch), you can see the l
 
 From these we pick [promising datasets](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) and work on creating [Data Packages](http://openfood.schoolofdata.ch/about/). Some examples of these can be found in our [GitHub profile](https://github.com/search?q=topic%3Adatapackage+org%3Aschoolofdata-ch&type=Repositories). You may find our data wrangling [Toolbox](https://toolbox.schoolofdata.ch) useful if you would like to take part in this process. And you may well by this time have some other things that you'd like to share. This is a good time to:
 
-<a href="http://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea" class="button special">3. Join the chat :)</a>
+<a href="https://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea" class="button special">3. Join the chat :)</a>
 
-In our virtual community we will be sharing updates on our progress, as well as later on supporting participants during the 2018 Open Food Data Hackdays. Which we hope that you will take part in if you can, to make something awesome from your data!
+In the [Expedition channel](https://enguete.schoolofdata.ch/food/channels/expedition) of our virtual community ([Sign up here](https://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea)) powered by [Mattermost](https://docs.mattermost.com/overview/product.html#about-the-mattermost-open-source-project), we will be sharing updates on our progress - as well as later on supporting participants during the 2018 Open Food Data Hackdays. Which we hope that you will take part in if you can, to make something awesome from your data!
 
 ---
 <a name="contact"></a>
