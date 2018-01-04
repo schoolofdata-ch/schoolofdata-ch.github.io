@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Oleg Lavrovsky
+author: School of Data in Switzerland
 title: Expedition
 when: 2017-10-19
 date: 2017-10-01

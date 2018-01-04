@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Oleg Lavrovsky
+author: School of Data in Switzerland
 title: VR/AR Workshop
 when: 2018-04-05
 date: 2018-02-01

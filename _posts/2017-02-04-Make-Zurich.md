@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Oleg Lavrovsky
+author: School of Data in Switzerland
 title: Workshop
 when: 2017-02-04
 date: 2017-02-04
