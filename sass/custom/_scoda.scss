@@ -21,3 +21,7 @@ article blockquote {
     font-style: normal;
     background-color: #f5f5f5;
 }
+
+article h3 > a.button {
+    margin-bottom: -1em;
+}
