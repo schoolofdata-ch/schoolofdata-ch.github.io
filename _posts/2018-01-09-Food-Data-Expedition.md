@@ -20,7 +20,7 @@ frontpage: true
 
 Start the new year with a virtual **[Data Expedition](http://schoolofdata.org/data-expeditions/)**, building up on our [workshops last year](/2017/01/14/Food-Data-Expedition.html). Learn to work with open data and to prepare resources for the upcoming [Open Food Hackdays](http://food.opendata.ch).
 
-We wish to involve people with all kinds of skills at this event, whether you are a nutritionist, a data expert or just someone who likes to learn how to work with (food) data. We will be working together online and learning from each other. **Note:** please see registration instructions on the main website to participate in the Hackdays. Registration for the Hackdays is *not* required if you just want to help with the virtual Expedition.
+We wish to involve people with all kinds of skills at this event, whether you are a nutritionist, a data expert or just someone who likes to learn how to work with (food) data. We will be working together online and learning from each other. **Note:** please see registration instructions at [food.opendata.ch](http://food.opendata.ch) to participate in the Hackdays. Registration for the Hackdays is *not* required if you just want to help with the virtual Expedition.
 
 <a name="register"></a>
 ## Let's get started!
