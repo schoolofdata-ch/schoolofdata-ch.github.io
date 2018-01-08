@@ -23,27 +23,29 @@ Start the new year with a virtual [Data Expedition](http://schoolofdata.org/data
 <a name="register"></a>
 ## Let's get started!
 
+In the [#Expedition](https://enguete.schoolofdata.ch/food/channels/expedition) channel of our virtual community ([Sign up here](https://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea) to our [Mattermost](https://docs.mattermost.com/overview/product.html#about-the-mattermost-open-source-project) chat server), we will be sharing updates on our progress - as well as later on supporting participants during Hackdays.
+
 With these three steps you can take part in the Data Expedition:
 
 ### <a href="http://openfood.schoolofdata.ch" class="button special">1. Visit Datacentral &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em; border:1px solid grey" title="Screenshot of Datacentral" src="/images/posts/food-dc.jpg" width="320">
-At [openfood.schoolofdata.ch](http://openfood.schoolofdata.ch) (Datacentral) you can see the list of datasets already prepared. Take a look around, and bookmark this page for reference. This may already give you some ideas, or you could run a few searches on [data portals](http://opendata.swiss) or your favorite [search engine](https://en.wikipedia.org/wiki/List_of_search_engines). If you find something interesting, please share it:
+At [openfood.schoolofdata.ch](http://openfood.schoolofdata.ch) (Datacentral) you can see the list of datasets already prepared. Take a look around: this may already give you some ideas of what we look for as "Open Food Data". You could then run searches on [data portals](http://opendata.swiss) or [search engines](https://en.wikipedia.org/wiki/List_of_search_engines). If you find interesting datasets, please share it with us:
 
 ### <a href="https://goo.gl/forms/J5nHDCBvu3VGmonE3" class="button special">2. Make a suggestion &nbsp;<i style="color:#5e5" class="fa fa-lightbulb-o fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em" title="Angelica by Sylvia Fredriksson" src="/images/camps/Angelica_sm_attributed.jpg" width="320">
-Ideas shared [in this form](https://goo.gl/forms/J5nHDCBvu3VGmonE3) go into a [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv), from which we work on creating more Data Packages: pick promising datasets, download and clean them, check the licenses, document any issues we find. You may find our data wrangling [Toolbox](http://toolbox.schoolofdata.ch) and information on [Data Packages](http://openfood.schoolofdata.ch/about/) useful. By this time you may have other things to share or to ask, so let's chat:
+Ideas you share [in this form](https://goo.gl/forms/J5nHDCBvu3VGmonE3) will go into a [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv), from which we work on creating more 
 
-### <a href="https://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea" class="button special">3. Join the community &nbsp;<i style="color:#ff6943" class="fa fa-cutlery fa-5" aria-hidden="true"></i></a>
+### <a href="http://openfood.schoolofdata.ch/about/" class="button special">3. Package the Data &nbsp;<i style="color:#ff6943" class="fa fa-cutlery fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em" title="Open Food Data logo" src="https://food.opendata.ch/wp-content/themes/food.opendata.ch/images/logo.png">
-In the [#Expedition](https://enguete.schoolofdata.ch/food/channels/expedition) channel of our virtual community ([Sign up here](https://enguete.schoolofdata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea) to our [Mattermost](https://docs.mattermost.com/overview/product.html#about-the-mattermost-open-source-project) chat server), we will be sharing updates on our progress - as well as later on supporting participants during Hackdays. *Start the year off with a fresh challenge and make something awesome with open data!*
+From the datasets we discovered above, we aim to create as many Data Packages as possible: pick the most promising datasets, download and clean them, check the licenses, document any issues we find. You may find our data wrangling [Toolbox](http://toolbox.schoolofdata.ch) and information on [Data Packages](http://openfood.schoolofdata.ch/about/) useful. By this time you may have other things to share or to ask, so let's chat!
 
 ---
 <a name="contact"></a>
 ## Any questions?
 
 - This Data Expedition is facilitated by [@oleg](https://forum.schoolofdata.ch/users/oleg/) and [@mchaib](https://forum.schoolofdata.ch/users/mchaib/)
-- Use the [forum thread](https://forum.schoolofdata.ch/t/9-1-food-data-expedition/325/2) or [our contact form](http://schoolofdata.ch#contact) if you have any questions to the team.
+- Use the [chat server](https://enguete.schoolofdata.ch/food/channels/expedition), [forum thread](https://forum.schoolofdata.ch/t/9-1-food-data-expedition/325/2) or [our contact form](http://schoolofdata.ch#contact) if you have any questions to the team.
 - Sign up for e-mail updates from our forum to be notified of upcoming [Expeditions](https://forum.schoolofdata.ch/c/expeditions) and other [Events](https://forum.schoolofdata.ch/c/events).
