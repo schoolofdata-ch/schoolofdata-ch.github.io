@@ -33,18 +33,15 @@ At [openfood.schoolofdata.ch](http://openfood.schoolofdata.ch) (Datacentral) you
 ### <a href="https://goo.gl/forms/J5nHDCBvu3VGmonE3" class="button special">2. Make a suggestion &nbsp;<i style="color:#5e5" class="fa fa-lightbulb-o fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em" title="Angelica by Sylvia Fredriksson" src="/images/camps/Angelica_sm_attributed.jpg" width="320">
-Ideas you share [in this form](https://goo.gl/forms/J5nHDCBvu3VGmonE3) will go into a master list. This is a public process and requires some moderation. In particular, we are looking for sources of data which are relatively up to date, with potential for new applications, and which are as free as possible of restrictions and accessibility issues. From the best data we discover together, we aim to create as many Data Packages as possible:
+Ideas you share [in this form](https://goo.gl/forms/J5nHDCBvu3VGmonE3) will go into a [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv). This is a public process and requires some moderation. In particular, we are looking for sources of data which are relatively up to date, with potential for new applications, and which are as free as possible of restrictions and accessibility issues. From the best data we discover together, we aim to create as many Data Packages as possible:
 
 ### <a href="http://openfood.schoolofdata.ch/about/" class="button special">3. Package the Data &nbsp;<i style="color:#ff6943" class="fa fa-cutlery fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em" title="Open Food Data logo" src="https://food.opendata.ch/wp-content/themes/food.opendata.ch/images/logo.png">
-From the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) we will download and test datasets, do some minor clean-up if necessary, check the [licenses](http://licenses.opendefinition.org/), [create](http://datapackagist.openknowledge.io/) and [validate](https://http://goodtables.io) a Data Package, and document any issues you find in a README.
+From the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) we will download and test datasets, do some minor clean-up if necessary, check the [licenses](http://licenses.opendefinition.org/), [create](http://datapackagist.openknowledge.io/) and [validate](https://http://goodtables.io) a Data Package, and document any issues in a README. Data Packages currently being created or updated that we are [looking for help](https://github.com/foodopendata/food-datasets/issues) with are listed in GitHub:
+<iframe src="https://azu.github.io/github-issue-widget/?owner=foodopendata&repo=food-datasets&limit=5&random" allowtransparency="true" frameborder="0" scrolling="0" width="100%" height="180"></iframe>
 
-Data Packages currently being created or updated that we are looking for help with:
-
-<iframe src="https://azu.github.io/github-issue-widget/?owner=foodopendata&repo=food-datasets&limit=5&random" allowtransparency="true" frameborder="0" scrolling="0" width="100%"></iframe>
-
-If you do not see a Data Package listed already at [github/foodopendata](https://github.com/foodopendata) for a dataset you wish to see supported, then fork our [boilerplate](https://github.com/schoolofdata-ch/datapackage-boilerplate) and start one yourself. If you publish a Data Package online, send us the URL for feedback and inclusion in [Datacentral](http://openfood.schoolofdata.ch).
+If there is a dataset you wish to see supported at [github/foodopendata](https://github.com/foodopendata), you can also fork our [boilerplate](https://github.com/schoolofdata-ch/datapackage-boilerplate) and start a Data Package yourself. If you publish it online, send us the URL for feedback and inclusion in the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) and [Datacentral](http://openfood.schoolofdata.ch).
 
 You may find our data wrangling [Toolbox](http://toolbox.schoolofdata.ch) and information on [Data Packages](http://openfood.schoolofdata.ch/about/) useful. By this time you may have other things to share or ask, so [let's chat](#register). Then come to the Hackdays and make something amazing!
 
