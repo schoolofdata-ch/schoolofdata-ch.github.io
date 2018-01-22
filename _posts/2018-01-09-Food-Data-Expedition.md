@@ -2,12 +2,11 @@
 layout: post
 author: School of Data in Switzerland
 title: Online Expedition
-when: {}
-date: {}
+when: 2018-01-09
+date: 2018-01-01
 image: images/posts/food.jpg
 style: style1
 frontpage: true
-published: true
 ---
 
 **TLDR: An online Expedition to prepare data for the 2018 Open Food Data Hackdays starts on January 9. Find out how to join in and contribute!**
