@@ -2,11 +2,12 @@
 layout: post
 author: School of Data in Switzerland
 title: Online Expedition
-when: 2018-01-09
-date: 2018-01-01
+when: {}
+date: {}
 image: images/posts/food.jpg
 style: style1
 frontpage: true
+published: true
 ---
 
 **TLDR: An online Expedition to prepare data for the 2018 Open Food Data Hackdays starts on January 9. Find out how to join in and contribute!**
@@ -38,7 +39,13 @@ Ideas you share [in this form](https://goo.gl/forms/J5nHDCBvu3VGmonE3) will go i
 ### <a href="http://openfood.schoolofdata.ch/about/" class="button special">3. Package the Data &nbsp;<i style="color:#ff6943" class="fa fa-cutlery fa-5" aria-hidden="true"></i></a>
 
 <img align="right" style="margin-left:1em" title="Open Food Data logo" src="https://food.opendata.ch/wp-content/themes/food.opendata.ch/images/logo.png">
-From the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) we will download and test datasets, do some minor clean-up if necessary, check the [licenses](http://licenses.opendefinition.org/), document any issues you find. If you don't see a data package listed already at [github/foodopendata](https://github.com/foodopendata), then fork our [boilerplate](https://github.com/schoolofdata-ch/datapackage-boilerplate) and start one yourself. If you publish a Data Package online, send us the URL for feedback and inclusion in [Datacentral](http://openfood.schoolofdata.ch).
+From the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) we will download and test datasets, do some minor clean-up if necessary, check the [licenses](http://licenses.opendefinition.org/), [create](http://datapackagist.openknowledge.io/) and [validate](https://http://goodtables.io) a Data Package, and document any issues you find in a README.
+
+Data Packages currently being created or updated that we are looking for help with:
+
+<iframe src="https://azu.github.io/github-issue-widget/?owner=foodopendata&repo=food-datasets&limit=5&random" allowtransparency="true" frameborder="0" scrolling="0" width="100%"></iframe>
+
+If you do not see a Data Package listed already at [github/foodopendata](https://github.com/foodopendata) for a dataset you wish to see supported, then fork our [boilerplate](https://github.com/schoolofdata-ch/datapackage-boilerplate) and start one yourself. If you publish a Data Package online, send us the URL for feedback and inclusion in [Datacentral](http://openfood.schoolofdata.ch).
 
 You may find our data wrangling [Toolbox](http://toolbox.schoolofdata.ch) and information on [Data Packages](http://openfood.schoolofdata.ch/about/) useful. By this time you may have other things to share or ask, so [let's chat](#register). Then come to the Hackdays and make something amazing!
 
