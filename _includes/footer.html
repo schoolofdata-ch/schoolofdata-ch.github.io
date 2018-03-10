@@ -14,6 +14,9 @@
         {% if site.forum %}
         <li><a href="{{ site.forum }}" class="icon style2 fa-bullhorn"><span class="label">Forum</span></a></li>
         {% endif %}
+        {% if site.calendar %}
+        <li><a href="{{ site.calendar }}" class="icon style2 fa-calendar-alt"><span class="label">Agenda</span></a></li>
+        {% endif %}
         {% if site.twitter %}
           <li><a href="https://twitter.com/{{ site.twitter }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
         {% endif %}
