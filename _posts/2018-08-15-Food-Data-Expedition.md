@@ -24,7 +24,7 @@ Learn to work with open data and help to prepare resources for the upcoming [Ope
 
 ### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
 
-** Please register separately at [food.opendata.ch](http://food.opendata.ch) if you wish to  also participate in the Hackdays on September 7-9.*
+*TIP: please register separately at [food.opendata.ch](http://food.opendata.ch) if you wish to  also participate in the Hackdays on September 7-9.*
 
 ---
 
