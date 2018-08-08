@@ -1,7 +1,7 @@
 ---
 layout: post
 author: School of Data in Switzerland
-title: Online Expedition
+title: Next Expedition
 when: 2018-08-01
 date: 2018-08-15
 image: images/posts/food.jpg

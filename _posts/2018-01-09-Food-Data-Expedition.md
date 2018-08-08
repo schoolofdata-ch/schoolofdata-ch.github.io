@@ -6,7 +6,7 @@ when: 2018-01-09
 date: 2018-01-01
 image: images/posts/food.jpg
 style: style2
-frontpage: true
+frontpage: false
 ---
 
 **TLDR: An online Expedition to prepare data for the 2018 Open Food Data Hackdays starts on January 9. Find out how to join in and contribute!**
