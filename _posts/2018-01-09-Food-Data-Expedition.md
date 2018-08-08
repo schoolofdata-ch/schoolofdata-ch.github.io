@@ -5,7 +5,7 @@ title: Online Expedition
 when: 2018-01-09
 date: 2018-01-01
 image: images/posts/food.jpg
-style: style1
+style: style2
 frontpage: true
 ---
 

@@ -18,10 +18,15 @@ frontpage: true
 <tr><th></th><td><a href="#contact" class="button special"><i style="color:white" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#register" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
 </table>
 
-Learn to work with open data and help to prepare resources for the upcoming [Open Food Hackdays](http://food.opendata.ch). We wish to involve people with all kinds of skills at this event, whether you are a data connaisseur or just a beginner. Registration is *not* required if you just want to help with this Expedition, but please register at [food.opendata.ch](http://food.opendata.ch) if you wish to _also_ participate in the Hackdays.
-
 <a name="register"></a>
-## Let's get started!
+
+Learn to work with open data and help to prepare resources for the upcoming [Open Food Hackdays](http://food.opendata.ch). Register for the workshop at [Eventbrite](https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465):
+
+**[FREE REGISTRATION](https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465)**
+
+We wish to involve people with all kinds of skills at this event, whether you are a data connaisseur or just a beginner. Registration is *not* required if you just want to help with this Expedition, but please register at [food.opendata.ch](http://food.opendata.ch) if you wish to _also_ participate in the Hackdays.
+
+## Get started
 
 In the [#Expedition](https://team.opendata.ch/food/channels/expedition) channel of our virtual community (**[sign up here](https://team.opendata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea)** to our Mattermost open chat server), as well as through the [discussion forum](https://forum.schoolofdata.ch/t/7-9-9-open-food-data-x-smart-kitchen-hackdays/422), we will be sharing updates on our progress. With these three steps, you too can take part:
 
