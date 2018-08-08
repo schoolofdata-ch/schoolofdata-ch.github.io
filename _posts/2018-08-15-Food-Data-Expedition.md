@@ -20,16 +20,14 @@ frontpage: true
 
 <a name="register"></a>
 
-### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
-
 We wish to involve people with all kinds of skills at this event, whether you are a data connaisseur or even a beginner. Registration is *not* required if you just want to help with this Expedition, but please register at [food.opendata.ch](http://food.opendata.ch) if you wish to _also_ participate in the Hackdays.
+
+### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
 
 <a name="getstarted"></a>
 ## Get started
 
-Learn to work with open data and help to prepare resources for the upcoming [Open Food Hackdays](http://food.opendata.ch). First step is to register for the workshop at [Eventbrite](https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465).
-
-Meanwhile, in the [#Expedition](https://team.opendata.ch/food/channels/expedition) channel of our virtual community (*[sign up here](https://team.opendata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea)* to our Mattermost open chat server), as well as through the [discussion forum](https://forum.schoolofdata.ch/t/7-9-9-open-food-data-x-smart-kitchen-hackdays/422), we will be sharing updates on our progress. With these three steps, you too can take part:
+In our Data Expedition, you can learn to work with open data and collect resources for the upcoming [Open Food Hackdays](http://food.opendata.ch). The first step is to register for the workshop at [Eventbrite](https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465). Meanwhile, in the [#Expedition](https://team.opendata.ch/food/channels/expedition) channel of our virtual community (*[sign up here](https://team.opendata.ch/signup_user_complete/?id=d5sor7paep8gtxtbah94yozjea)* to our Mattermost open chat server), as well as through the [discussion forum](https://forum.schoolofdata.ch/t/7-9-9-open-food-data-x-smart-kitchen-hackdays/422), we will be sharing updates on our progress. With these three steps, you too can take part:
 
 ### 1. Check Datacentral
 
@@ -41,7 +39,7 @@ At [openfood.schoolofdata.ch](http://openfood.schoolofdata.ch) ("Datacentral") a
 <img align="right" style="margin-left:1em" title="Angelica by Sylvia Fredriksson" src="/images/camps/Angelica_sm_attributed.jpg" width="320">
 Ideas you share by [contacting us](/#contact) or raising an [issue on GitHub](https://github.com/foodopendata/food-datasets/issues) will go into a [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv). This is a public process and requires some moderation. In particular, we are looking for <u>sources of data which are relatively up to date, with potential for new applications, and which are as free as possible of restrictions and accessibility issues</u> - in the ideal case, open according to the [Open Definition](http://opendefinition.org/). From the best data we discover together, we aim to create as many Data Packages as possible.
 
-### 3. Package the Data
+### 3. Package the data
 
 <img align="right" style="margin-left:1em" title="Open Food Data logo" src="https://food.opendata.ch/wp-content/themes/food.opendata.ch/images/logo.png">
 From the [master list](https://github.com/schoolofdata-ch/food-datasets/blob/master/data/food-datasets.csv) we will download and test datasets, do some minor clean-up if necessary, check the [licenses](http://licenses.opendefinition.org/), [create](http://datapackagist.openknowledge.io/) and [validate](https://http://goodtables.io) a Data Package, and document any issues in a README. Data Packages currently being created or updated that we are [looking for help](https://github.com/foodopendata/food-datasets/issues) with are listed in GitHub:
