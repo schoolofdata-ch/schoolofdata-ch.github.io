@@ -12,10 +12,10 @@ frontpage: true
 <table>
 <tr><th>What:</th><td>Making fresh data for the <a href="https://food.opendata.ch/#hackdays">Open Food Data Hackdays</a>.</td></tr>
 <tr><th>How:</th><td>Join our workshop and help to collect and prepare open data.</td></tr>
-<tr><th>When:</th><td>Wednesday, August 15, 2017, 10:00 - 14:00</td></tr>
+<tr><th>When:</th><td>Wednesday, August 15, 2018, 16:00 - 18:30</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
 <tr><th>Requirements:</th><td>A reasonably modern laptop, experience with spreadsheets. Data science skills would be a bonus.</td></tr>
-<tr><th></th><td><a href="/#contact" class="button special"><i style="color:white" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#getstarted" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
+<tr><th></th><td><a href="/#contact" class="button"><i style="color:white" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#getstarted" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
 </table>
 
 <a name="register"></a>
@@ -23,6 +23,8 @@ frontpage: true
 We wish to involve people with all kinds of skills at this event, whether you are a data connaisseur or even a beginner. Registration is *not* required if you just want to help with this Expedition, but please register at [food.opendata.ch](http://food.opendata.ch) if you wish to _also_ participate in the Hackdays.
 
 ### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
+
+---
 
 <a name="getstarted"></a>
 ## Get started
