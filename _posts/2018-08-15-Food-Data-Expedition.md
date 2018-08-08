@@ -15,14 +15,16 @@ frontpage: true
 <tr><th>When:</th><td>Wednesday, August 15, 2018, 16:00 - 18:30</td></tr>
 <tr><th>Where:</th><td>Bern, Switzerland.</td></tr>
 <tr><th>Requirements:</th><td>A reasonably modern laptop, experience with spreadsheets. Data science skills would be a bonus.</td></tr>
-<tr><th></th><td><a href="/#contact" class="button"><i style="color:white" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#getstarted" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
+<tr><th></th><td><a href="/#contact" class="button"><i style="color:blue" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#getstarted" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
 </table>
 
 <a name="register"></a>
 
-We wish to involve people with all kinds of skills at this event, whether you are a data connaisseur or even a beginner. Registration is *not* required if you just want to help with this Expedition, but please register at [food.opendata.ch](http://food.opendata.ch) if you wish to _also_ participate in the Hackdays.
+Learn to work with open data and help to prepare resources for the upcoming [Open Food Data x Smart Kitchen Hackdays](https://hack.opendata.ch/event/21) in this **Data Expedition** facilitated by the Swiss [School of Data](https://schoolofdata.ch) chapter. The workshop will be followed by [Open Data Beer](https://opendatabeer.ch) from 18:30. Whether you are a data connaisseur or beginner, we wish to involve people with all kinds of skills at this event - this pre-event is the perfect chance to get ready for a hackathon!
 
 ### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
+
+** Please register separately at [food.opendata.ch](http://food.opendata.ch) if you wish to  also participate in the Hackdays on September 7-9.*
 
 ---
 
