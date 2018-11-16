@@ -1,11 +1,11 @@
 ---
 layout: post
 author: School of Data in Switzerland
-title: Next Expedition
+title: Expedition
 when: 2018-08-15
 date: 2018-08-15
 image: images/posts/food.jpg
-style: style1
+style: style2
 frontpage: true
 ---
 

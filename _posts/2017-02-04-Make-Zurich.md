@@ -7,7 +7,7 @@ date: 2017-02-04
 tagline:
 image: images/posts/makezurich-2017.png
 style: style2
-frontpage: true
+frontpage: false
 ---
 
 The [Open Network Infrastructure Association](https://opennetworkinfrastructure.org/), is pursing important next steps in creating data about the physical world - with the capability to do this at scale now possible at a grassroots level and openly licensed.

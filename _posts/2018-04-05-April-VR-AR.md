@@ -1,13 +1,13 @@
 ---
 layout: post
 author: School of Data in Switzerland
-title: VR/AR Workshop
+title: Workshop
 when: 2018-04-05
 date: 2018-02-01
 tagline:
 image: images/posts/sodacamp-001.png
-style: style1
-frontpage: false
+style: style2
+frontpage: true
 ---
 
 # VR+AR workshop at E-0010
