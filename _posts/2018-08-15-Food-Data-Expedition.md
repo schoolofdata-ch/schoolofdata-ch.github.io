@@ -18,6 +18,9 @@ frontpage: true
 <tr><th></th><td><a href="/#contact" class="button"><i style="color:blue" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp; I have a question</a>&nbsp;<a href="#getstarted" class="button">Get started ! <i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i> <i style="color:#5d5" class="fa fa-lightbulb-o" aria-hidden="true"></i> <i style="color:#ff6943" class="fa fa-cutlery" aria-hidden="true"></i></a></td></tr>
 </table>
 
+##### UPDATE: Visit our [forum thread](https://forum.schoolofdata.ch/t/7-9-9-open-food-data-x-smart-kitchen-hackdays/422/4) for notes from the workshop. You can still contribute to the data gathering by following the steps outlined here.
+
+<!--
 <a name="register"></a>
 
 Learn to work with open data and help to prepare resources for the upcoming [Open Food Data x Smart Kitchen Hackdays](https://hack.opendata.ch/event/21) in this **Data Expedition** facilitated by the Swiss [School of Data](https://schoolofdata.ch) chapter. The workshop will be followed by [Open Data Beer](https://opendatabeer.ch) from 18:30. Whether you are a data connaisseur or beginner, we wish to involve people with all kinds of skills at this event - this pre-event is the perfect chance to get ready for a hackathon!
@@ -25,6 +28,7 @@ Learn to work with open data and help to prepare resources for the upcoming [Ope
 ### <a href="https://www.eventbrite.de/e/food-data-prep-expedition-tickets-48829204465" class="button special">Register now! &nbsp;<i style="color:#ed0" class="fa fa-lemon-o fa-5" aria-hidden="true"></i></a>
 
 *TIP: please register separately at [food.opendata.ch](http://food.opendata.ch) if you wish to  also participate in the Hackdays on September 7-9.*
+-->
 
 ---
 
