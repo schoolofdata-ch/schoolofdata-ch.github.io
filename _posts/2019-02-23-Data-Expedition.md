@@ -4,7 +4,7 @@ author: School of Data in Switzerland
 title: Expedition
 when: 2019-02-23
 date: 2019-02-23
-image: images/posts/sodacamp-001.png
+image: images/posts/logo_digiges.svg.png
 style: style1
 frontpage: true
 ---
