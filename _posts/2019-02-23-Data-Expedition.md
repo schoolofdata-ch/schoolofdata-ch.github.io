@@ -5,7 +5,7 @@ title: Expedition
 when: 2019-02-23
 date: 2019-02-23
 image: images/posts/logo_digiges.svg.png
-style: style1
+style: style2
 frontpage: true
 ---
 
@@ -52,7 +52,7 @@ Run searches on [open data portals](https://forum.schoolofdata.ch/t/open-data-po
 ### 2. Make a suggestion
 
 <img align="right" style="margin-left:1em" title="Angelica by Sylvia Fredriksson" src="/images/camps/Angelica_sm_attributed.jpg" width="320">
-Ideas you share by [contacting us](/#contact) or raising an [issue on GitHub](https://github.com/schoolofdata-ch/winterkongress-2019/issues). We are looking to support a moderated, public process of raising attention to possibilities in the open data spaces. In particular, we are looking for sources of data which are relatively up to date, with potential for new applications, and which are <u>as free as possible of restrictions and accessibility issues</u> - in the ideal case, open according to the [Open Definition](http://opendefinition.org/). From the best data we discover together, we aim to create high quality Data Packages.
+Ideas can be shared [on our forum](https://forum.schoolofdata.ch), [social media](https://twitter.com/schoolofdata-ch), or by [contacting us](/#contact). We are looking to support a moderated, public process of raising attention to possibilities in the open data spaces. In particular, we are looking for sources of data which are relatively up to date, with potential for new applications, and which are <u>as free as possible of restrictions and accessibility issues</u> - in the ideal case, open according to the [Open Definition](http://opendefinition.org/). From the best data we discover together, we aim to create high quality Data Packages.
 
 <br clear="all">
 ### 3. Package the data
