@@ -1,6 +1,15 @@
 Website of the School of Data in Switzerland
+===
 
-(Work in progress)
+To edit locally, you'll need Ruby installed.
+
+In your terminal at the root folder, type:
+
+`bundle install`
+
+then
+
+`bundle exec jekyll serve`
 
 See https://jekyllrb.com/docs/quickstart/ for deployment instructions.
 
