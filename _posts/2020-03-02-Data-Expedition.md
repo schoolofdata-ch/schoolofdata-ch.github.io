@@ -1,10 +1,10 @@
 ---
 layout: post
 author: School of Data in Switzerland
-title: #covid19mon
+title: COVID-19 Monitoring
 when: 2019-03-18
 date: 2019-03-18
-image: images/posts/hospital-beds-model
+image: images/posts/hospital-beds-model.png
 style: style1
 frontpage: true
 ---
@@ -13,8 +13,8 @@ frontpage: true
 <tr><th>What</th><td>Creating quality resources for a hackathon</td></tr>
 <tr><th>How</th><td>Orienteer through a data jungle and package the good stuff</td></tr>
 <tr><th>When</th><td>March 18 - 24, 2020</td></tr>
-<tr><th>Where</th><td><a href="https://db.schoolofdata.ch/event/7#top">Open Internet</a></td></tr>
-<tr><th>Requirements</th><td>A reasonably modern laptop, ability to comfortably navigate the Web, some experience with spreadsheets and web apps.</td></tr>
+<tr><th>Where</th><td><a href="https://db.schoolofdata.ch/event/7#top">Open Internet</a> + <a href="https://twitter.com/opendatazh">@opendatazh</a></td></tr>
+<tr><th>Requirements</th><td>Ability to comfortably navigate the Web, some experience with spreadsheets and web apps.</td></tr>
 <tr><th></th><td> <a href="https://schoolofdata.ch/#contact" class="button"><i style="color:blue" class="fa fa-question-circle-o" aria-hidden="true"></i>&nbsp;I have a question</a>&nbsp; <a href="#getstarted" class="button"><i style="color:#ed0" class="fa fa-lemon-o" aria-hidden="true"></i>&nbsp;Get started</a></td></tr>
 </table>
 
