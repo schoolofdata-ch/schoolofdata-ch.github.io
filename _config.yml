@@ -8,7 +8,8 @@ de:
     um die Nutzung und das Verständnis von Daten zu fördern.
     Unsere aktuelle Aktivitäten und Online-Unterstützung gibt es in <a href="https://forum.opendata.ch">unserem Forum</a> und auf die <a href="https://opendata.ch">Website des Vereins</a> zu finden.
   current:
-    title: Aktuelle Projekte
+    calendar: Kalender
+    title: Projekte
   signup:
     title: Interessiert?
     header: Ich melde ...
@@ -33,7 +34,8 @@ fr:
     pour soutenir l'utilisation et la compréhension des données.
     Pour les activités en cours et le soutien en ligne, veuillez consulter <a href="https://forum.opendata.ch">notre forum</a> et notre <a href="https://opendata.ch">site principal</a>.
   current:
-    title: Projets actuels
+    calendar: Calendrier
+    title: Projets
   signup:
     title: Ça m'interesse!
     header: J'inscris ...
@@ -60,7 +62,8 @@ en:
     For current activities and online support please visit <a href="https://forum.opendata.ch">forum.opendata.ch</a>
     and main <a href="https://opendata.ch">website</a>.
   current:
-    title: Current projects
+    calendar: Calendar
+    title: Projects
   signup:
     title: I'm interested!
     header: Signing up ...
