@@ -5,7 +5,7 @@ title: COVID-19 Monitoring
 when: 2019-03-18
 date: 2019-03-18
 image: images/posts/hospital-beds-model.png
-style: style1
+style: style2
 frontpage: true
 ---
 
