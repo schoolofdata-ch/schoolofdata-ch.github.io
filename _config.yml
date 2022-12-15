@@ -10,7 +10,7 @@ de:
     <a href="https://forum.opendata.ch">unserem Forum</a> und auf die 
     <a href="https://opendata.ch">Website des Vereins</a> zu finden.
   current:
-    calendar: Kalender
+    calendar: Demnächst
     title: Projekte
   signup:
     title: Interessiert?
@@ -37,7 +37,7 @@ fr:
     Pour obtenir de l'aide, veuillez consulter <a href="https://forum.opendata.ch">notre forum</a> et le 
     <a href="https://opendata.ch">site principal</a> de l'association.
   current:
-    calendar: Calendrier
+    calendar: Prochainement
     title: Projets
   signup:
     title: Ça m'interesse!
@@ -65,7 +65,7 @@ en:
     For online support, please visit <a href="https://forum.opendata.ch">our forum</a>
     and <a href="https://opendata.ch">main website</a> of the association.
   current:
-    calendar: Calendar
+    calendar: Upcoming
     title: Projects
   signup:
     title: I'm interested!
