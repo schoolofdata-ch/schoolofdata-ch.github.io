@@ -1,10 +1,12 @@
 # Language-specific strings
 de:
   title: School of Data Schweiz
-  tagline: School of Data Schweiz will den Umgang mit und das Verständnis von Daten fördern.
+  tagline: Öffentliche Plattform für ein breiteres Verständnis und ethische Anwendung von Daten.
   description: >
-    Wir bieten Unterstützung über <a href="https://forum.schoolofdata.ch">unser Forum</a>
-    und organisieren projektbasierte <a href="#info">Workshops</a>:
+    Eine Arbeitsgruppe von <a href="https://opendata.ch">Opendata.ch</a> - 
+    Schweizer Chapter von <a href="https://okfn.org">Open Knowledge</a> -
+    um die Nutzung und das Verständnis von Daten zu fördern.
+    Unsere aktuelle Aktivitäten und Online-Unterstützung gibt es in <a href="https://forum.opendata.ch">unserem Forum</a> und auf die <a href="https://opendata.ch">Website des Vereins</a> zu finden.
   current:
     title: Aktuelle Projekte
   signup:
@@ -24,10 +26,12 @@ de:
     send: Senden
 fr:
   title: L'École de données en Suisse
-  tagline: L'École de données promouvoit l'utilisation et la compréhension des données en Suisse.
+  tagline: Des outils publics pour une meilleure compréhension et l'application éthique des données.
   description: >
-    Nous vous assistons sur <a href="https://forum.schoolofdata.ch">notre forum</a>
-    et organisons <a href="#info">des ateliers</a> adaptés aux projets:
+    Un groupe de travail d'<a href="https://opendata.ch">Opendata.ch</a> - 
+    Chapitre en Suisse de <a href="https://okfn.org">Open Knowledge</a> - 
+    pour soutenir l'utilisation et la compréhension des données.
+    Pour les activités en cours et le soutien en ligne, veuillez consulter <a href="https://forum.opendata.ch">notre forum</a> et notre <a href="https://opendata.ch">site principal</a>.
   current:
     title: Projets actuels
   signup:
@@ -48,10 +52,13 @@ fr:
 
 en:
   title: School of Data Switzerland
-  tagline: The School of Data Switzerland supports the usage and understanding of data.
+  tagline: Public tools for wider understanding and ethical application of data.
   description: >
-    We provide support <a href="https://forum.schoolofdata.ch">on our forum</a>
-    and organise project-based <a href="#info">workshops</a>:
+    This is a working group of <a href="https://opendata.ch">Opendata.ch</a> - 
+    Swiss chapter of <a href="https://okfn.org">Open Knowledge</a> - 
+    to support the usage and understanding of data.
+    For current activities and online support please visit <a href="https://forum.opendata.ch">forum.opendata.ch</a>
+    and main <a href="https://opendata.ch">website</a>.
   current:
     title: Current projects
   signup:
