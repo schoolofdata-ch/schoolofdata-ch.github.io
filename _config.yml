@@ -3,9 +3,11 @@ de:
   title: School of Data Schweiz
   tagline: Öffentliche Plattform für ein breiteres Verständnis und ethische Anwendung von Daten.
   description: >
-    Eine Arbeitsgruppe von <a href="https://opendata.ch">Opendata.ch</a> - 
+    Die School of Data ist nicht mehr eine aktive Arbeitsgruppe von 
+    <a href="https://opendata.ch">Opendata.ch</a> - 
     Schweizer Chapter von <a href="https://okfn.org">Open Knowledge</a> -
-    um die Nutzung und das Verständnis von Daten zu fördern.
+    aber es gibt verschiedene Projekte in der Verein zur Förderung der Datenkompetenz. 
+    Viele unserer Mitglieder sind aktiv in der Aus- und Weiterbildung tätig. 
     Mehr Unterstützung gibt es in 
     <a href="https://forum.opendata.ch">unserem Forum</a> und auf die 
     <a href="https://opendata.ch">Website des Vereins</a> zu finden.
@@ -31,10 +33,12 @@ fr:
   title: L'École de données en Suisse
   tagline: Des outils publics pour une meilleure compréhension et l'application éthique des données.
   description: >
-    Un groupe de travail d'<a href="https://opendata.ch">Opendata.ch</a> - 
-    Chapitre en Suisse de <a href="https://okfn.org">Open Knowledge</a> - 
-    pour soutenir l'utilisation et la compréhension des données.
-    Pour obtenir de l'aide, veuillez consulter <a href="https://forum.opendata.ch">notre forum</a> et le 
+    L'école des données n'est plus un groupe de travail actif d'<a href="https://opendata.ch">Opendata.ch</a> - 
+    Chapitre en Suisse de <a href="https://okfn.org">Open Knowledge</a> -  
+    mais il y a nombreux efforts actuels pour promouvoir la maîtrise des données. 
+    Beaucoup de nos membres sont actifs dans le domaine de l'éducation et de la formation. 
+    N'hésitez pas à nous contacter à travers de 
+    <a href="https://forum.opendata.ch">notre forum</a> et le 
     <a href="https://opendata.ch">site principal</a> de l'association.
   current:
     calendar: Prochainement
@@ -58,12 +62,12 @@ fr:
 en:
   title: School of Data Switzerland
   tagline: Public tools for wider understanding and ethical application of data.
-  description: >
-    This is a working group of <a href="https://opendata.ch">Opendata.ch</a> - 
-    Swiss chapter of <a href="https://okfn.org">Open Knowledge</a> - 
-    to support the usage and understanding of data.
-    For online support, please visit <a href="https://forum.opendata.ch">our forum</a>
-    and <a href="https://opendata.ch">main website</a> of the association.
+  description: > 
+    The School of Data is no longer an active Working Group of <a href="https://opendata.ch">Opendata.ch</a> - 
+    Swiss chapter of <a href="https://okfn.org">Open Knowledge</a>. However, there are several ongoing
+    efforts to promote data literacy. Many of our members are actively providing education and training. 
+    Please visit <a href="https://forum.opendata.ch">our forum</a>
+    and <a href="https://opendata.ch">main website</a> for support.
   current:
     calendar: Upcoming
     title: Projects
